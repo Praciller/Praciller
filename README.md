@@ -60,7 +60,7 @@ This workspace showcases my journey from full-stack development to AI engineerin
 
 ### 🤖 AI & Machine Learning Projects
 
-#### 🛍️ [AI Product Listing Assistant](https://github.com/Praciller/Praciller/tree/main/AI-Product-Listing-Assistant)
+#### 🛍️ [AI Product Listing Assistant](https://github.com/Praciller/AI-Product-Listing-Assistant)
 
 **Intelligent e-commerce automation with Google Gemini AI**
 
@@ -68,15 +68,7 @@ This workspace showcases my journey from full-stack development to AI engineerin
 - **Features**: Multi-language product analysis (12 languages), image-to-text generation, SEO optimization
 - **Impact**: Automates product listing creation for e-commerce platforms with AI-generated titles, descriptions, and tags
 
-#### 📄 [LLM Document Q&A System](https://github.com/Praciller/Praciller/tree/main/LLM-Doc-QA)
-
-**Advanced document processing and question-answering system**
-
-- **Tech Stack**: Python, FastAPI, Streamlit, Google Gemini 2.0 Flash, PDF processing
-- **Features**: Document summarization, intelligent Q&A with RAG, PDF metadata extraction
-- **Impact**: Streamlines document analysis and information retrieval for businesses and researchers
-
-#### 🎯 [AI Resume Matcher](https://github.com/Praciller/Praciller/tree/main/ai-resume-matcher)
+#### 🎯 [AI Resume Matcher](https://github.com/Praciller/ai-resume-matcher)
 
 **Intelligent recruitment automation system**
 
@@ -84,7 +76,7 @@ This workspace showcases my journey from full-stack development to AI engineerin
 - **Features**: Resume parsing, job matching with compatibility scoring (0-100), structured data extraction
 - **Impact**: Automates initial resume screening process with detailed analysis and recommendations
 
-#### 🐦 [Customer Support AI System](https://github.com/Praciller/Praciller/tree/main/customer-support-on-twitter)
+#### 🐦 [Customer Support AI System](https://github.com/Praciller/customer-support-on-twitter)
 
 **Multimodal customer service automation**
 
@@ -92,7 +84,7 @@ This workspace showcases my journey from full-stack development to AI engineerin
 - **Features**: Text + image analysis, sentiment detection, priority assessment, automated response generation
 - **Impact**: Enhances customer support efficiency with AI-powered ticket categorization and response drafting
 
-#### 🧾 [Receipt AI Expense Tracker](https://github.com/Praciller/Praciller/tree/main/receipt-ai-expense-tracker)
+#### 🧾 [Receipt AI Expense Tracker](https://github.com/Praciller/receipt-ai-expense-tracker)
 
 **Smart expense management with computer vision**
 
@@ -100,7 +92,7 @@ This workspace showcases my journey from full-stack development to AI engineerin
 - **Features**: Receipt scanning, expense categorization, financial analytics, automated data entry
 - **Impact**: Simplifies expense tracking and financial management for individuals and businesses
 
-#### 🐱🐶 [Cat vs Dog Classifier](https://github.com/Praciller/Praciller/tree/main/cat-vs-dog-classifier)
+#### 🐱🐶 [Cat vs Dog Classifier](https://github.com/Praciller/cat-vs-dog-classifier)
 
 **Deep learning image classification with CNN and transfer learning**
 
@@ -108,7 +100,7 @@ This workspace showcases my journey from full-stack development to AI engineerin
 - **Features**: CNN with transfer learning (MobileNetV2/EfficientNet), brutalist design frontend, client-side ML
 - **Impact**: Demonstrates computer vision capabilities with both Python and JavaScript implementations
 
-#### 🏠 [House Price Prediction](https://github.com/Praciller/Praciller/tree/main/house-price-prediction)
+#### 🏠 [House Price Prediction](https://github.com/Praciller/house-price-prediction)
 
 **Machine learning regression model for real estate price prediction**
 
@@ -118,7 +110,7 @@ This workspace showcases my journey from full-stack development to AI engineerin
 
 ### 🌐 Full-Stack Web Applications
 
-#### 🎬 [Project Dreamer Movie](https://github.com/Praciller/Praciller/tree/main/Project-Dreamer-Movie)
+#### 🎬 [Project Dreamer Movie](https://github.com/Praciller/Project-Dreamer-Movie)
 
 **Modern movie and TV show discovery platform**
 
@@ -126,7 +118,7 @@ This workspace showcases my journey from full-stack development to AI engineerin
 - **Features**: Movie/TV search, trending content, detailed information pages, responsive design
 - **Impact**: Demonstrates modern React development with state management and API integration
 
-#### ⚡ [Pokédex v1 Project](https://github.com/Praciller/Praciller/tree/main/pokedex-v1-project)
+#### ⚡ [Pokédex v1 Project](https://github.com/Praciller/pokedex-v1-project)
 
 **Interactive Pokémon exploration application**
 
