@@ -107,12 +107,12 @@ This workspace showcases **7 comprehensive projects** demonstrating my journey f
 <tr>
 <td width="50%">
 
-#### 🛍️ [AI Product Listing Assistant](./AI-Product-Listing-Assistant)
+#### 🛍️ [AI Product Listing Assistant](https://github.com/Praciller/AI-Product-Listing-Assistant)
 
 **Intelligent e-commerce automation with Google Gemini AI**
 
 [![Live Demo](https://img.shields.io/badge/Demo-Live-success?style=flat-square)](https://ai-product-listing-assistant.vercel.app/)
-[![Tech](https://img.shields.io/badge/Tech-Python%20%7C%20FastAPI%20%7C%20Streamlit-blue?style=flat-square)](./AI-Product-Listing-Assistant)
+[![Tech](https://img.shields.io/badge/Tech-Python%20%7C%20FastAPI%20%7C%20Streamlit-blue?style=flat-square)](https://github.com/Praciller/AI-Product-Listing-Assistant)
 
 **Key Features:**
 
@@ -126,12 +126,12 @@ This workspace showcases **7 comprehensive projects** demonstrating my journey f
 </td>
 <td width="50%">
 
-#### 🎯 [AI Resume Matcher](./ai-resume-matcher)
+#### 🎯 [AI Resume Matcher](https://github.com/Praciller/ai-resume-matcher)
 
 **Intelligent recruitment automation system**
 
 [![Live Demo](https://img.shields.io/badge/Demo-Live-success?style=flat-square)](https://ai-resume-matcher-chi.vercel.app)
-[![Tech](https://img.shields.io/badge/Tech-React%20%7C%20Python%20%7C%20Vercel-blue?style=flat-square)](./ai-resume-matcher)
+[![Tech](https://img.shields.io/badge/Tech-React%20%7C%20Python%20%7C%20Vercel-blue?style=flat-square)](https://github.com/Praciller/ai-resume-matcher)
 
 **Key Features:**
 
@@ -147,12 +147,12 @@ This workspace showcases **7 comprehensive projects** demonstrating my journey f
 <tr>
 <td width="50%">
 
-#### 🐦 [Customer Support AI System](./customer-support-on-twitter)
+#### 🐦 [Customer Support AI System](https://github.com/Praciller/customer-support-on-twitter)
 
 **Multimodal customer service automation**
 
 [![Live Demo](https://img.shields.io/badge/Demo-Live-success?style=flat-square)](https://praciller.github.io/customer-support-on-twitter)
-[![Tech](https://img.shields.io/badge/Tech-React%20%7C%20FastAPI%20%7C%20AI-blue?style=flat-square)](./customer-support-on-twitter)
+[![Tech](https://img.shields.io/badge/Tech-React%20%7C%20FastAPI%20%7C%20AI-blue?style=flat-square)](https://github.com/Praciller/customer-support-on-twitter)
 
 **Key Features:**
 
@@ -166,12 +166,12 @@ This workspace showcases **7 comprehensive projects** demonstrating my journey f
 </td>
 <td width="50%">
 
-#### 🧾 [Receipt AI Expense Tracker](./receipt-ai-expense-tracker)
+#### 🧾 [Receipt AI Expense Tracker](https://github.com/Praciller/receipt-ai-expense-tracker)
 
 **Smart expense management with computer vision**
 
 [![Live Demo](https://img.shields.io/badge/Demo-Live-success?style=flat-square)](https://receipt-ai-expense-tracker.vercel.app)
-[![Tech](https://img.shields.io/badge/Tech-Next.js%20%7C%20Python%20%7C%20AI-blue?style=flat-square)](./receipt-ai-expense-tracker)
+[![Tech](https://img.shields.io/badge/Tech-Next.js%2015%20%7C%20Supabase%20%7C%20AI-blue?style=flat-square)](https://github.com/Praciller/receipt-ai-expense-tracker)
 
 **Key Features:**
 
@@ -180,19 +180,19 @@ This workspace showcases **7 comprehensive projects** demonstrating my journey f
 - 📊 Financial analytics
 - 🎨 Modern Next.js UI
 
-**Tech Stack:** Next.js 14, Python, FastAPI, Google Gemini AI, Vercel
+**Tech Stack:** Next.js 15, Supabase, Google Gemini 1.5 Flash, TailwindCSS, Vercel
 
 </td>
 </tr>
 <tr>
 <td width="50%" colspan="2">
 
-#### 🌿 [Wellness AI Assistant](./nextjs-langchain-ai-chatbot)
+#### 🌿 [Wellness AI Assistant](https://github.com/Praciller/nextjs-langchain-ai-chatbot)
 
 **Professional AI-powered customer support for wellness & spa businesses**
 
 [![Live Demo](https://img.shields.io/badge/Demo-Live-success?style=flat-square)](https://nextjs-langchain-ai-chatbot.vercel.app/)
-[![Tech](https://img.shields.io/badge/Tech-Next.js%2015%20%7C%20LangChain%20%7C%20Supabase-blue?style=flat-square)](./nextjs-langchain-ai-chatbot)
+[![Tech](https://img.shields.io/badge/Tech-Next.js%2015%20%7C%20LangChain%20%7C%20Supabase-blue?style=flat-square)](https://github.com/Praciller/nextjs-langchain-ai-chatbot)
 
 **Key Features:**
 
@@ -215,12 +215,12 @@ This workspace showcases **7 comprehensive projects** demonstrating my journey f
 <tr>
 <td width="50%">
 
-#### 🎬 [Project Dreamer Movie](./Project-Dreamer-Movie)
+#### 🎬 [Project Dreamer Movie](https://github.com/Praciller/Project-Dreamer-Movie)
 
 **Modern movie and TV show discovery platform**
 
 [![Live Demo](https://img.shields.io/badge/Demo-Live-success?style=flat-square)](https://dreamer-movie-pakon-poomson.netlify.app/)
-[![Tech](https://img.shields.io/badge/Tech-React%20%7C%20Redux%20%7C%20Vite-blue?style=flat-square)](./Project-Dreamer-Movie)
+[![Tech](https://img.shields.io/badge/Tech-React%20%7C%20Redux%20%7C%20Vite-blue?style=flat-square)](https://github.com/Praciller/Project-Dreamer-Movie)
 
 **Key Features:**
 
@@ -234,12 +234,12 @@ This workspace showcases **7 comprehensive projects** demonstrating my journey f
 </td>
 <td width="50%">
 
-#### ⚡ [Pokédex v1 Project](./pokedex-v1-project)
+#### ⚡ [Pokédex v1 Project](https://github.com/Praciller/pokedex-v1-project)
 
 **Interactive Pokémon exploration application**
 
 [![Live Demo](https://img.shields.io/badge/Demo-Live-success?style=flat-square)](https://pokedex-pakon-pomson.netlify.app)
-[![Tech](https://img.shields.io/badge/Tech-React%20%7C%20TypeScript%20%7C%20Firebase-blue?style=flat-square)](./pokedex-v1-project)
+[![Tech](https://img.shields.io/badge/Tech-React%20%7C%20TypeScript%20%7C%20Firebase-blue?style=flat-square)](https://github.com/Praciller/pokedex-v1-project)
 
 **Key Features:**
 
@@ -263,7 +263,7 @@ This workspace showcases **7 comprehensive projects** demonstrating my journey f
 | **AI Product Listing Assistant** | AI/ML         | Python, FastAPI, Streamlit, Gemini AI | [Demo](https://ai-product-listing-assistant.vercel.app/)        | Multi-language, Image analysis, SEO optimization |
 | **AI Resume Matcher**            | AI/ML         | React, Python, Gemini AI, Vercel      | [Demo](https://ai-resume-matcher-chi.vercel.app)                | Resume parsing, Job matching, Career guidance    |
 | **Customer Support AI**          | AI/ML         | React, FastAPI, Gemini AI             | [Demo](https://praciller.github.io/customer-support-on-twitter) | Multimodal analysis, Sentiment detection         |
-| **Receipt AI Tracker**           | AI/ML         | Next.js, Python, Gemini AI            | [Demo](https://receipt-ai-expense-tracker.vercel.app)           | OCR, Expense tracking, Analytics                 |
+| **Receipt AI Tracker**           | AI/ML         | Next.js 15, Supabase, Gemini AI       | [Demo](https://receipt-ai-expense-tracker.vercel.app)           | OCR, Expense tracking, Analytics                 |
 | **Wellness AI Assistant**        | AI/Full-Stack | Next.js 15, LangChain, Supabase       | [Demo](https://nextjs-langchain-ai-chatbot.vercel.app/)         | RAG, Real-time chat, Enterprise auth             |
 | **Project Dreamer Movie**        | Full-Stack    | React, Redux, Vite, TMDB API          | [Demo](https://dreamer-movie-pakon-poomson.netlify.app/)        | Movie discovery, Responsive design               |
 | **Pokédex v1**                   | Full-Stack    | React, TypeScript, Firebase           | [Demo](https://pokedex-pakon-pomson.netlify.app)                | Pokémon search, Collections, Comparison          |
