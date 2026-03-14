@@ -2,9 +2,9 @@
 
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Pakon Poomson
 
-## Full-Stack Developer → AI Engineer | 2+ Years Experience
+## AI Engineer | Building Intelligent Applications
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome)](http://portfolio-pakon.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome)](https://portfolio-pakon.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:pakon.poomson@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pakon-poomson-a584b9275/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/Praciller)
@@ -15,25 +15,25 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate **Full-Stack Developer** with **2+ years of professional experience** building modern web applications and currently **transitioning into AI Engineering**. My journey combines solid software development fundamentals with cutting-edge AI/ML technologies, creating intelligent applications that solve real-world problems.
+I'm a passionate **AI Engineer** with a strong **Full-Stack Development** background, currently building intelligent applications at **Seagate Technology**. My journey combines solid software development fundamentals with cutting-edge AI/ML technologies, creating production-ready AI systems that solve real-world problems.
 
 ### 🚀 Professional Background
 
-- **2+ years** of full-stack development experience with React, Next.js, TypeScript, Node.js, and modern databases
-- **Transitioning to AI Engineering** with hands-on experience in LLMs, computer vision, and intelligent automation
+- **AI Engineer at Seagate Technology** — building enterprise AI solutions with LLMs, computer vision, and intelligent automation
+- **Full-stack development background** with React, Next.js, TypeScript, Node.js, and modern databases
 - **Proven track record** of building production-ready applications from concept to deployment
 - **Strong foundation** in software architecture, API design, and modern development practices
 
 ### 🎯 Current Focus
 
-- **AI/ML Engineering**: Building intelligent applications with Google Gemini AI, document processing, and multimodal AI systems
-- **Full-Stack AI Applications**: Combining traditional web development with AI capabilities
-- **Learning Journey**: Continuously expanding knowledge in machine learning, natural language processing, and computer vision
+- **Enterprise AI Systems**: Building production AI solutions at Seagate Technology
+- **Full-Stack AI Applications**: Combining web development expertise with AI capabilities
+- **Continuous Growth**: Expanding expertise in LLMs, RAG systems, and multimodal AI
 
 ### 📍 Location & Contact
 
 - 🌍 Based in Thailand
-- 🖥️ Portfolio: [portfolio-pakon.netlify.app](http://portfolio-pakon.netlify.app/)
+- 🖥️ Portfolio: [portfolio-pakon.netlify.app](https://portfolio-pakon.netlify.app/)
 - ✉️ Email: [pakon.poomson@gmail.com](mailto:pakon.poomson@gmail.com)
 - 🤖 Passionate about AI/ML and building intelligent solutions
 
@@ -99,7 +99,7 @@ I'm a passionate **Full-Stack Developer** with **2+ years of professional experi
 
 ## 🚀 Featured Projects
 
-This workspace showcases **7 comprehensive projects** demonstrating my journey from full-stack development to AI engineering. Each project is production-ready with comprehensive testing, modern architecture, and real-world applications.
+This workspace showcases **7 comprehensive projects** demonstrating my expertise in AI engineering and full-stack development. Each project is production-ready with comprehensive testing, modern architecture, and real-world applications.
 
 ### 🤖 AI & Machine Learning Projects
 
@@ -274,7 +274,7 @@ This workspace showcases **7 comprehensive projects** demonstrating my journey f
 
 ### From Full-Stack to AI Engineering
 
-My transition from full-stack development to AI engineering represents a natural evolution of my technical interests and career goals. With a solid foundation in software development, I'm now applying these skills to build intelligent applications that leverage the power of artificial intelligence.
+My transition from full-stack development to AI engineering represents a natural evolution of my technical skills. Now working as an **AI Engineer at Seagate Technology**, I apply my software development expertise to build intelligent applications that leverage the power of artificial intelligence.
 
 ### Key Learning Areas
 
@@ -287,8 +287,8 @@ My transition from full-stack development to AI engineering represents a natural
 
 ### Professional Goals
 
-- **Short-term**: Deepen expertise in machine learning algorithms and AI model optimization
-- **Medium-term**: Contribute to innovative AI products in production environments
+- **Short-term**: Deliver high-impact AI solutions at Seagate Technology
+- **Medium-term**: Architect scalable AI systems and mentor junior engineers
 - **Long-term**: Lead AI engineering teams and drive AI strategy in forward-thinking organizations
 
 ---
@@ -316,7 +316,7 @@ My transition from full-stack development to AI engineering represents a natural
 
 <div align="center">
 
-<a href="http://www.github.com/Praciller">
+<a href="https://www.github.com/Praciller">
 <img src="https://github-readme-stats.vercel.app/api?username=Praciller&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&include_all_commits=true" alt="Praciller's GitHub Stats" />
 </a>
 
