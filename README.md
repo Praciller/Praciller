@@ -27,6 +27,13 @@ Previously, I built full-stack applications and internal automation tools with R
 | Software Engineering | TypeScript, Next.js, React, Node.js, FastAPI, C#, Java, Docker, CI/CD, Git/GitLab, REST APIs |
 | Applied AI | Agentic workflows, computer vision, OCR/entity extraction, multilingual summarization, document retrieval, structured AI outputs |
 
+## Selected AI Credentials
+
+- [AIAT Super AI Engineer Season 6: Foundation AI (Theory)](https://assessment.aiat.or.th/certificate/42a33cde-b540-4ad0-b294-b81cc7da9a74) - Artificial Intelligence Association of Thailand, 2026
+- Anthropic Academy certificates across Claude API, Claude Code, Model Context Protocol, subagents, agent skills, and AI Fluency
+- Google Cloud AI/ML skill badges across Vertex AI, Gemini, Imagen, Multimodal RAG, BigQuery ML, Document AI, and ML APIs
+- AIS Academy Prompt Engineering & Agentic AI
+
 ## Featured AI Projects
 
 | Project | Why it matters | Stack |
