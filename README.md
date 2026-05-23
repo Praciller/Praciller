@@ -2,7 +2,7 @@
 
 # Pakon Poomson
 
-## AI Engineer | GenAI Apps | RAG | Agentic Workflows | Backend & Data Infrastructure
+## AI Engineer | GenAI Engineer | RAG & Agentic Workflows | Backend/Data Infrastructure
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome)](https://portfolio-pakon.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:pakon.poomson@gmail.com)
@@ -17,6 +17,14 @@
 I am an AI Engineer at Seagate Technology focused on practical GenAI automation, internal engineering workflow tooling, and backend/data infrastructure. My current work includes multi-agent AI workflows for requirements analysis, debugging, testing, and PR preparation, plus C# internal software, VictoriaMetrics TSDB setup, and Kafka-to-TSDB ingestion validation with Apache Flink/Java.
 
 Previously, I built full-stack applications and internal automation tools with React, Next.js, FastAPI, PostgreSQL, Directus, Supabase, and Docker. I focus on turning AI prototypes into usable software: reliable APIs, clean data flows, practical UX, and deployment-ready architecture.
+
+## Role Focus
+
+| Priority | Target roles | Evidence in this profile |
+| --- | --- | --- |
+| 1 | AI Engineer | RAG apps, LLM agents, multimodal extraction, AI automation, evaluation-minded delivery |
+| 2 | GenAI Engineer / Data Engineer | LangChain, OpenAI, Gemini, pgvector, PostgreSQL, Kafka/Flink validation, VictoriaMetrics |
+| 3 | Data Science / Data Analyst / Full-Stack / Frontend | ML projects, analytics dashboards, React/Next.js, FastAPI, SQL, dashboards, API integrations |
 
 ## Core Stack
 
@@ -56,15 +64,3 @@ Previously, I built full-stack applications and internal automation tools with R
 - Email: [pakon.poomson@gmail.com](mailto:pakon.poomson@gmail.com)
 - LinkedIn: [linkedin.com/in/pakon-poomson](https://www.linkedin.com/in/pakon-poomson/)
 - Portfolio: [portfolio-pakon.netlify.app](https://portfolio-pakon.netlify.app/)
-
----
-
-<div align="center">
-
-### Top Languages
-
-<a href="https://github.com/Praciller">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Praciller&theme=github_dark" alt="Top Languages by Repository" />
-</a>
-
-</div>
