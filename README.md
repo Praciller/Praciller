@@ -2,7 +2,7 @@
 
 # Pakon Poomson
 
-## AI Engineer | Smart Factory Software | Machine Telemetry | RAG | Agentic Workflows
+## AI Engineer | GenAI Apps | RAG | Agentic Workflows | Backend & Data Infrastructure
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome)](https://portfolio-pakon.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:pakon.poomson@gmail.com)
@@ -14,7 +14,7 @@
 
 ## About
 
-I am an AI Engineer at Seagate Technology working on smart-factory software and machine-data infrastructure. My current work includes C# machine-operation and data-collection software, internal system integration, VictoriaMetrics TSDB setup, Kafka-to-TSDB ingestion validation with Apache Flink/Java, and multi-agent GenAI workflow automation.
+I am an AI Engineer at Seagate Technology focused on practical GenAI automation, internal engineering workflow tooling, and backend/data infrastructure. My current work includes multi-agent AI workflows for requirements analysis, debugging, testing, and PR preparation, plus C# internal software, VictoriaMetrics TSDB setup, and Kafka-to-TSDB ingestion validation with Apache Flink/Java.
 
 Previously, I built full-stack applications and internal automation tools with React, Next.js, FastAPI, PostgreSQL, Directus, Supabase, and Docker. I focus on turning AI prototypes into usable software: reliable APIs, clean data flows, practical UX, and deployment-ready architecture.
 
@@ -46,9 +46,9 @@ Previously, I built full-stack applications and internal automation tools with R
 
 ## Current Focus
 
-- Building smart-factory software around machine operations, telemetry, and internal data integration.
-- Setting up time-series infrastructure and validating Kafka/Flink ingestion patterns.
-- Improving internal engineering workflows with multi-agent GenAI automation.
+- Building GenAI workflow automation for requirements analysis, debugging, testing, and PR preparation.
+- Shipping RAG, multimodal AI, and agentic applications with production-minded APIs and data flows.
+- Strengthening backend/data infrastructure with time-series storage, Kafka/Flink validation, and PostgreSQL/pgvector.
 - Hardening AI applications with better evaluation, observability, testing, and deployment workflows.
 
 ## Contact
@@ -61,8 +61,10 @@ Previously, I built full-stack applications and internal automation tools with R
 
 <div align="center">
 
+### Top Languages
+
 <a href="https://github.com/Praciller">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praciller&langs_count=8&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages&layout=compact" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Praciller&theme=github_dark" alt="Top Languages by Repository" />
 </a>
 
 </div>
