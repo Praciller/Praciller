@@ -2,7 +2,7 @@
 
 # Pakon Poomson
 
-## AI Engineer | Smart Factory AI | RAG | Agentic Workflows | Data Pipelines
+## AI Engineer | Smart Factory Software | Machine Telemetry | RAG | Agentic Workflows
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome)](https://portfolio-pakon.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:pakon.poomson@gmail.com)
@@ -14,7 +14,7 @@
 
 ## About
 
-I am an AI Engineer at Seagate Technology building AI/ML and data systems for smart-factory environments. My current work spans agentic LLM workflows, anomaly detection, predictive maintenance, machine data integration, Kafka/Flink ingestion, and time-series infrastructure.
+I am an AI Engineer at Seagate Technology working on smart-factory software and machine-data infrastructure. My current work includes C# machine-operation and data-collection software, internal system integration, VictoriaMetrics TSDB setup, Kafka-to-TSDB ingestion validation with Apache Flink/Java, and multi-agent GenAI workflow automation.
 
 Previously, I built full-stack applications and internal automation tools with React, Next.js, FastAPI, PostgreSQL, Directus, Supabase, and Docker. I focus on turning AI prototypes into usable software: reliable APIs, clean data flows, practical UX, and deployment-ready architecture.
 
@@ -23,7 +23,7 @@ Previously, I built full-stack applications and internal automation tools with R
 | Area | Tools and Strengths |
 | --- | --- |
 | AI / ML | Python, TensorFlow, PyTorch, scikit-learn, LLMs, RAG, LangChain, OpenAI, Gemini, Ollama, prompt engineering |
-| Data / Infrastructure | Apache Kafka, Apache Flink, VictoriaMetrics, PostgreSQL, pgvector, Redis, SQL, time-series data, streaming pipelines |
+| Data / Infrastructure | Apache Kafka, Apache Flink, VictoriaMetrics, PostgreSQL, pgvector, Redis, SQL, time-series data, ingestion validation |
 | Software Engineering | TypeScript, Next.js, React, Node.js, FastAPI, C#, Java, Docker, CI/CD, Git/GitLab, REST APIs |
 | Applied AI | Agentic workflows, computer vision, OCR/entity extraction, multilingual summarization, document retrieval, structured AI outputs |
 
@@ -46,8 +46,9 @@ Previously, I built full-stack applications and internal automation tools with R
 
 ## Current Focus
 
-- Building smart-factory AI systems for anomaly detection, predictive maintenance, and machine telemetry.
-- Improving agentic SDLC automation with local and cloud LLMs.
+- Building smart-factory software around machine operations, telemetry, and internal data integration.
+- Setting up time-series infrastructure and validating Kafka/Flink ingestion patterns.
+- Improving internal engineering workflows with multi-agent GenAI automation.
 - Hardening AI applications with better evaluation, observability, testing, and deployment workflows.
 
 ## Contact
