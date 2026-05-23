@@ -2,7 +2,7 @@
 
 # Pakon Poomson
 
-## AI Engineer | GenAI Engineer | RAG & Agentic Workflows | Backend/Data Infrastructure
+## AI Engineer | GenAI Engineer | Data Engineer | RAG & Agentic Workflows
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome)](https://portfolio-pakon.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:pakon.poomson@gmail.com)
