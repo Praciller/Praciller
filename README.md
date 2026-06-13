@@ -42,15 +42,21 @@ Previously, I built full-stack applications and internal automation tools with R
 - Google Cloud AI/ML skill badges across Vertex AI, Gemini, Imagen, Multimodal RAG, BigQuery ML, Document AI, and ML APIs
 - AIS Academy Prompt Engineering & Agentic AI
 
-## Featured AI Projects
+## Featured AI Engineering Projects
 
-| Project | Why it matters | Stack |
+| Project | What I built | What it proves |
 | --- | --- | --- |
-| [Wellness AI Assistant](https://github.com/Praciller/nextjs-langchain-ai-chatbot) | Production-style RAG chatbot with document ingestion, vector search, authenticated chat, streaming responses, and tool-calling patterns | Next.js, TypeScript, LangChain, Supabase, PostgreSQL, pgvector, OpenAI |
-| [Receipt AI Expense Tracker](https://github.com/Praciller/receipt-ai-expense-tracker) | Multimodal receipt parser that extracts structured JSON from Thai/English receipts and visualizes spending analytics | Next.js, Gemini Vision, Supabase, Recharts |
-| [AI Resume Matcher](https://github.com/Praciller/ai-resume-matcher) | Resume/JD matching tool with PDF parsing, structured extraction, skill-gap analysis, career guidance, and interview prep | React, Python, FastAPI, Gemini, Vercel |
-| [AI Product Listing Assistant](https://github.com/Praciller/AI-Product-Listing-Assistant) | Image-to-product-listing generator with multilingual output, FastAPI backend, retry/circuit-breaker patterns, and test coverage | Python, FastAPI, Streamlit, Gemini Vision, pytest |
-| [Customer Support AI System](https://github.com/Praciller/customer-support-on-twitter) | Multimodal support-ticket analysis for category, sentiment, priority, and response drafting | React, FastAPI, Gemini, Playwright, pytest |
+| [Customer Support RAG Triage Agent](https://github.com/Praciller/customer-support-rag-triage-agent) ([demo](https://customer-support-rag-triage-agent.onrender.com)) | LangGraph workflow for intent classification, urgency detection, Qdrant retrieval, grounded response generation, provider fallback, caching, and offline evaluation | RAG architecture, agentic workflows, retrieval evaluation, FastAPI, React, Docker |
+| [Receipt AI Expense Tracker](https://github.com/Praciller/receipt-ai-expense-tracker) ([demo](https://receipt-ai-expense-tracker.vercel.app/)) | Local-first multimodal product that parses Thai/English receipts, validates structured output, normalizes Buddhist Era dates, and stores reviewed expenses in IndexedDB | Multimodal AI, provider routing, Zod contracts, local-first design, Next.js analytics |
+| [AI Resume Matcher](https://github.com/Praciller/ai-resume-matcher) ([demo](https://ai-resume-matcher-psi-one.vercel.app)) | PDF-to-job analysis platform with strict validation, multi-provider routing, skill-gap guidance, interview preparation, deterministic mock mode, and Vercel deployment | Production-minded AI APIs, Pydantic schemas, safe rendering, testing, React/FastAPI delivery |
+
+## Data & ML Projects
+
+| Project | What I built | What it proves |
+| --- | --- | --- |
+| [Climate CO2 Forecasting ML](https://github.com/Praciller/climate-co2-forecasting-ml) | Reproducible time-series pipeline comparing baseline, statistical, scikit-learn, and PyTorch models with shared evaluation and anomaly analysis | Leakage-safe forecasting, chronological validation, model comparison, FastAPI, React |
+| [Explainable Cancer Diagnosis ML](https://github.com/Praciller/explainable-cancer-diagnosis-ml) ([demo](https://explainable-cancer-diagnosis-ml.vercel.app)) | Breast-cancer classification benchmark with safety-relevant metrics, SHAP explanations, strict inference contracts, and an evidence dashboard | Explainable ML, error analysis, model governance, scikit-learn, PyTorch, SHAP |
+| [Thai Procurement Intelligence](https://github.com/Praciller/thai-procurement-intelligence) ([demo](https://thai-procurement-intelligence.vercel.app)) | Thai/English procurement search and analytics platform with ingestion, normalization, hybrid retrieval, dashboards, and evidence-backed Q&A | Data engineering, public-data systems, PostgreSQL/pgvector, FastAPI, Next.js, LLM integration |
 
 ## Current Focus
 
