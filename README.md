@@ -4,7 +4,7 @@
 
 ## AI Engineer | GenAI Engineer | Data Engineer | RAG & Agentic Workflows
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome)](https://portfolio-pakon.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome)](https://pakon-portfolio.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:pakon.poomson@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pakon-poomson/)
 
@@ -69,4 +69,4 @@ Previously, I built full-stack applications and internal automation tools with R
 
 - Email: [pakon.poomson@gmail.com](mailto:pakon.poomson@gmail.com)
 - LinkedIn: [linkedin.com/in/pakon-poomson](https://www.linkedin.com/in/pakon-poomson/)
-- Portfolio: [portfolio-pakon.netlify.app](https://portfolio-pakon.netlify.app/)
+- Portfolio: [pakon-portfolio.vercel.app](https://pakon-portfolio.vercel.app/)
