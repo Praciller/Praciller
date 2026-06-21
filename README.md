@@ -46,7 +46,7 @@ Previously, I built full-stack applications and internal automation tools with R
 
 | Project | What I built | What it proves |
 | --- | --- | --- |
-| [Customer Support RAG Triage Agent](https://github.com/Praciller/customer-support-rag-triage-agent) (local-first/Docker) | LangGraph workflow for intent classification, urgency detection, Qdrant retrieval, grounded response generation, provider fallback, caching, and offline evaluation | RAG architecture, agentic workflows, retrieval evaluation, FastAPI, React, Docker |
+| [Customer Support RAG Triage Agent](https://github.com/Praciller/customer-support-rag-triage-agent) ([demo](https://pracill-customer-support-rag-triage-agent.hf.space/)) | LangGraph workflow for intent classification, urgency detection, Qdrant retrieval, grounded response generation, provider fallback, caching, and offline evaluation | RAG architecture, agentic workflows, retrieval evaluation, FastAPI, React, Docker |
 | [Receipt AI Expense Tracker](https://github.com/Praciller/receipt-ai-expense-tracker) ([demo](https://receipt-ai-expense-tracker-eta.vercel.app/)) | Local-first multimodal product that parses Thai/English receipts, validates structured output, normalizes Buddhist Era dates, and stores reviewed expenses in IndexedDB | Multimodal AI, provider routing, Zod contracts, local-first design, Next.js analytics |
 | [AI Resume Matcher](https://github.com/Praciller/ai-resume-matcher) ([demo](https://ai-resume-matcher-psi-one.vercel.app)) | PDF-to-job analysis platform with strict validation, multi-provider routing, skill-gap guidance, interview preparation, deterministic mock mode, and Vercel deployment | Production-minded AI APIs, Pydantic schemas, safe rendering, testing, React/FastAPI delivery |
 
