@@ -56,7 +56,7 @@ Previously, I built full-stack applications and internal automation tools with R
 | --- | --- | --- |
 | [Climate CO2 Forecasting ML](https://github.com/Praciller/climate-co2-forecasting-ml) | Reproducible time-series pipeline comparing baseline, statistical, scikit-learn, and PyTorch models with shared evaluation and anomaly analysis | Leakage-safe forecasting, chronological validation, model comparison, FastAPI, React |
 | [Explainable Cancer Diagnosis ML](https://github.com/Praciller/explainable-cancer-diagnosis-ml) ([frontend showcase](https://explainable-cancer-diagnosis-ml.vercel.app)) | Breast-cancer classification benchmark with safety-relevant metrics, SHAP explanations, strict inference contracts, and an evidence dashboard | Explainable ML, error analysis, model governance, scikit-learn, PyTorch, SHAP |
-| [Thai Procurement Intelligence](https://github.com/Praciller/thai-procurement-intelligence) ([demo](https://thai-procurement-intelligence.vercel.app)) | Thai/English procurement search and analytics platform with ingestion, normalization, hybrid retrieval, dashboards, and evidence-backed Q&A | Data engineering, public-data systems, PostgreSQL/pgvector, FastAPI, Next.js, LLM integration |
+| [Thai Procurement Intelligence](https://github.com/Praciller/thai-procurement-intelligence) ([demo](https://thai-procurement-intelligence.vercel.app)) | Bilingual procurement intelligence platform with a governed 250-record official DGA/CGD snapshot, reproducible ingestion, SHA-256 verification, record-level provenance, quality evidence, hybrid retrieval, and source-linked assistant answers | Data engineering, public-data systems, PostgreSQL/pgvector, FastAPI, Next.js, LLM integration |
 
 ## Current Focus
 
