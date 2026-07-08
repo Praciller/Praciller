@@ -38,7 +38,7 @@
 
 ### Data Engineering Platforms
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
   <h3><a href="https://github.com/Praciller/urban-mobility-data-platform">Urban Mobility Data Platform</a></h3>
@@ -57,7 +57,7 @@
 
 ### RAG / Agentic AI Systems
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
   <h3><a href="https://github.com/Praciller/customer-support-rag-triage-agent">Customer Support RAG Triage Agent</a></h3>
@@ -76,7 +76,7 @@
 
 ### ML / MLOps
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
   <h3><a href="https://github.com/Praciller/thai-review-sentiment-intelligence">Thai Review Sentiment Intelligence</a></h3>
@@ -95,7 +95,7 @@
 
 ### Multimodal / Product AI
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
   <h3><a href="https://github.com/Praciller/receipt-ai-expense-tracker">Receipt AI Expense Tracker</a></h3>
@@ -125,15 +125,29 @@
 
 ## Technical Stack
 
-**Data:** `Python` `SQL` `PySpark` `DuckDB` `dbt-style modeling` `Airflow`<br>
-**AI:** `RAG` `LangGraph` `LLM Apps` `Provider Routing` `Evaluation` `Guardrails`<br>
-**Backend:** `FastAPI` `Pydantic` `Docker` `CI/CD`<br>
-**Frontend/Product:** `React` `Next.js` `TypeScript` `Tailwind CSS`<br>
-**ML/MLOps:** `scikit-learn` `PyTorch` `Forecasting` `MLflow-style tracking` `Model Registry Metadata`
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img alt="Core stack icons" src="https://skillicons.dev/icons?i=python,typescript,react,nextjs,fastapi,docker,postgres,githubactions,pytorch,sklearn&perline=10">
+  </a>
+</p>
+
+<p align="center">
+  <img alt="SQL" src="https://img.shields.io/static/v1?label=&message=SQL&color=334155&style=flat-square">
+  <img alt="PySpark" src="https://img.shields.io/static/v1?label=&message=PySpark&color=334155&style=flat-square">
+  <img alt="DuckDB" src="https://img.shields.io/static/v1?label=&message=DuckDB&color=334155&style=flat-square">
+  <img alt="dbt-style modeling" src="https://img.shields.io/static/v1?label=&message=dbt--style%20modeling&color=334155&style=flat-square">
+  <img alt="Airflow" src="https://img.shields.io/static/v1?label=&message=Airflow&color=334155&style=flat-square">
+  <img alt="LangGraph" src="https://img.shields.io/static/v1?label=&message=LangGraph&color=1E3A8A&style=flat-square">
+  <img alt="RAG" src="https://img.shields.io/static/v1?label=&message=RAG&color=1E3A8A&style=flat-square">
+  <img alt="Evaluation" src="https://img.shields.io/static/v1?label=&message=Evaluation&color=166534&style=flat-square">
+  <img alt="Guardrails" src="https://img.shields.io/static/v1?label=&message=Guardrails&color=166534&style=flat-square">
+  <img alt="Provider Routing" src="https://img.shields.io/static/v1?label=&message=Provider%20Routing&color=475569&style=flat-square">
+  <img alt="MLflow-style tracking" src="https://img.shields.io/static/v1?label=&message=MLflow--style%20tracking&color=475569&style=flat-square">
+</p>
 
 ## Engineering Principles
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
   <p><strong>Reproducibility</strong></p>

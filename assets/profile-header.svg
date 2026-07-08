@@ -15,10 +15,10 @@
   <path d="M694 82H1084" stroke="#1E40AF" stroke-width="10" stroke-linecap="round" opacity="0.5"/>
   <path d="M694 116H1004" stroke="#0EA5E9" stroke-width="10" stroke-linecap="round" opacity="0.55"/>
   <path d="M694 150H1110" stroke="#22C55E" stroke-width="10" stroke-linecap="round" opacity="0.45"/>
-  <rect x="72" y="62" width="430" height="156" rx="20" fill="#111827" stroke="#243244"/>
+  <rect x="72" y="62" width="560" height="156" rx="20" fill="#111827" stroke="#243244"/>
   <text x="104" y="124" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="44" font-weight="700">Pakon Poomson</text>
   <text x="106" y="164" fill="#93C5FD" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="600">AI Engineer / Data Engineer</text>
-  <text x="106" y="199" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="20">RAG / LLM Apps / Data Platforms / ML/MLOps</text>
+  <text x="106" y="199" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="19">RAG / LLM Apps / Data Platforms / MLOps</text>
   <rect x="676" y="204" width="392" height="84" rx="18" fill="#0F172A" stroke="#243244"/>
   <text x="704" y="239" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="600">Evidence-first AI/Data portfolio</text>
   <text x="704" y="267" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="16">Local demos / typed APIs / validation gates</text>
