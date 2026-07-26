@@ -1,6 +1,6 @@
 <svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Pakon Poomson profile header</title>
-  <desc id="desc">Technical portfolio banner for AI Engineer and Data Engineer work.</desc>
+  <desc id="desc">Technical portfolio banner for AI engineering work across reliable RAG, agent systems, and data platforms.</desc>
   <rect width="1200" height="360" rx="28" fill="#0B1120"/>
   <path d="M0 88H1200M0 176H1200M0 264H1200M120 0V360M240 0V360M360 0V360M480 0V360M600 0V360M720 0V360M840 0V360M960 0V360M1080 0V360" stroke="#1E293B" stroke-width="1"/>
   <circle cx="160" cy="78" r="5" fill="#38BDF8"/>
@@ -17,9 +17,9 @@
   <path d="M694 150H1110" stroke="#22C55E" stroke-width="10" stroke-linecap="round" opacity="0.45"/>
   <rect x="72" y="62" width="560" height="156" rx="20" fill="#111827" stroke="#243244"/>
   <text x="104" y="124" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="44" font-weight="700">Pakon Poomson</text>
-  <text x="106" y="164" fill="#93C5FD" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="600">AI Engineer / Data Engineer</text>
-  <text x="106" y="199" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="19">RAG / LLM Apps / Data Platforms / MLOps</text>
+  <text x="106" y="164" fill="#93C5FD" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="600">AI Engineer</text>
+  <text x="106" y="199" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="19">Reliable RAG / Agent Systems / Data Platforms</text>
   <rect x="676" y="204" width="392" height="84" rx="18" fill="#0F172A" stroke="#243244"/>
-  <text x="704" y="239" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="600">Evidence-first AI/Data portfolio</text>
-  <text x="704" y="267" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="16">Local demos / typed APIs / validation gates</text>
+  <text x="704" y="239" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="600">Production-minded engineering</text>
+  <text x="704" y="267" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="16">Retrieval / evaluation / governed data</text>
 </svg>
