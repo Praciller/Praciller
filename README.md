@@ -1,198 +1,84 @@
 <p align="center">
-  <img src="assets/profile-header.svg" alt="Pakon Poomson - AI Engineer and Data Engineer" width="100%">
+  <img src="assets/profile-header.svg" alt="Pakon Poomson — AI Engineer building reliable RAG and agent systems" width="100%">
 </p>
 
 <h1 align="center">Pakon Poomson</h1>
 
 <p align="center">
-  <strong>AI Engineer &amp; Data Engineer</strong><br>
-  RAG &middot; Agentic Workflows &middot; LLM Apps &middot; Data Platforms &middot; ML/MLOps &middot; Thai AI/Data Applications
+  <strong>AI Engineer building reliable RAG and agent systems on production-minded data platforms.</strong>
 </p>
 
 <p align="center">
-  I build evidence-first AI and data systems with local-first demos, typed APIs, validation gates, evaluation artifacts, privacy-safe fixtures, and explicit limitations.
+  Python · FastAPI · LangGraph · PostgreSQL · dbt · PySpark · React
 </p>
 
 <p align="center">
-  <a href="https://pakon-portfolio.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/static/v1?label=&message=Portfolio&color=111827&style=for-the-badge&logo=vercel&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/pakon-poomson/?locale=en-US"><img alt="LinkedIn" src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:pakon.poomson@gmail.com"><img alt="Email" src="https://img.shields.io/static/v1?label=&message=Email&color=374151&style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/Praciller"><img alt="GitHub" src="https://img.shields.io/static/v1?label=&message=GitHub&color=111827&style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://pakon-portfolio.vercel.app/">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/pakon-poomson/?locale=en-US">LinkedIn</a> ·
+  <a href="mailto:pakon.poomson@gmail.com">Email</a>
 </p>
 
 <p align="center">
-  <img alt="RAG" src="https://img.shields.io/static/v1?label=&message=RAG&color=0F172A&style=flat-square">
-  <img alt="LLM Apps" src="https://img.shields.io/static/v1?label=&message=LLM%20Apps&color=1E3A8A&style=flat-square">
-  <img alt="Data Platforms" src="https://img.shields.io/static/v1?label=&message=Data%20Platforms&color=075985&style=flat-square">
-  <img alt="ML/MLOps" src="https://img.shields.io/static/v1?label=&message=ML%2FMLOps&color=166534&style=flat-square">
-  <img alt="Thai AI" src="https://img.shields.io/static/v1?label=&message=Thai%20AI&color=334155&style=flat-square">
+  Start with
+  <a href="https://github.com/Praciller/customer-support-rag-triage-agent">RAG Triage</a> ·
+  <a href="https://github.com/Praciller/retailguard-data-platform">RetailGuard</a> ·
+  <a href="https://github.com/Praciller/thai-procurement-intelligence">Thai Procurement Intelligence</a>
 </p>
 
-## Current Focus
+## Selected engineering results
 
-- Building local-first AI/data systems with measurable evaluation and guardrails.
-- Designing reproducible data pipelines and analytics platforms.
-- Exploring RAG, agent workflows, Thai AI applications, and production-minded ML systems.
+- [Customer Support RAG Triage Agent](https://github.com/Praciller/customer-support-rag-triage-agent) — Built a seven-node workflow with retrieval, grounding checks, inspectable traces, and deterministic evaluation.
+- [RetailGuard Data Platform](https://github.com/Praciller/retailguard-data-platform) — Built an incremental retail platform with PII protection, blocking quality gates, reconciliation, and two-run idempotency proof.
+- [StockRush Go](https://github.com/Praciller/stockrush-go) — Demonstrated 1,000 concurrent purchase attempts, exactly 100 successful reservations, and zero overselling.
 
-## Featured Engineering Work
+## Start Here
 
-### Data Engineering Platforms
+### [Customer Support RAG Triage Agent](https://github.com/Praciller/customer-support-rag-triage-agent)
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-  <h3><a href="https://github.com/Praciller/urban-mobility-data-platform">Urban Mobility Data Platform</a></h3>
-  <p><code>Data Engineering</code></p>
-  <p>Local fixture ingestion, validation, DuckDB/dbt-style marts, Dagster definitions, read-only API, and dashboard evidence.</p>
-  <p><strong>Stack:</strong> Python &middot; DuckDB &middot; dbt-duckdb &middot; Dagster &middot; FastAPI &middot; React</p>
-</td>
-<td width="50%" valign="top">
-  <h3><a href="https://github.com/Praciller/retailguard-data-platform">RetailGuard Data Platform</a></h3>
-  <p><code>Retail Data Platform</code></p>
-  <p>Incremental Bronze extraction, protected PySpark Silver, blocking DuckDB quality gates, idempotency proof, and local evidence report.</p>
-  <p><strong>Stack:</strong> Python &middot; PostgreSQL &middot; FastAPI &middot; PySpark &middot; DuckDB &middot; Airflow</p>
-</td>
-</tr>
-</table>
+A typed support workflow that retrieves relevant cases, checks grounding, exposes every decision in a trace, and routes the final action to a human reviewer.
 
-### RAG / Agentic AI Systems
+**Core stack:** Python · FastAPI · LangGraph · Qdrant · FastEmbed · React<br>
+[Repository](https://github.com/Praciller/customer-support-rag-triage-agent) · [Live demo](https://pracill-customer-support-rag-triage-agent.hf.space/)
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-  <h3><a href="https://github.com/Praciller/customer-support-rag-triage-agent">Customer Support RAG Triage Agent</a></h3>
-  <p><code>RAG / Agentic Workflow</code></p>
-  <p>Typed seven-node LangGraph workflow with retrieval, grounding checks, provider fallback/cache controls, and deterministic offline evaluation.</p>
-  <p><strong>Stack:</strong> Python &middot; FastAPI &middot; LangGraph &middot; Qdrant &middot; FastEmbed &middot; React</p>
-</td>
-<td width="50%" valign="top">
-  <h3><a href="https://github.com/Praciller/thai-procurement-intelligence">Thai Procurement Intelligence</a></h3>
-  <p><code>Public Data / Evidence AI</code></p>
-  <p>Checksummed DGA snapshot, provenance-aware ingestion, bilingual evidence UI, deterministic retrieval evaluation, and cited assistant responses.</p>
-  <p><strong>Stack:</strong> Next.js &middot; FastAPI &middot; PostgreSQL &middot; SQLAlchemy &middot; Public data</p>
-</td>
-</tr>
-</table>
+### [RetailGuard Data Platform](https://github.com/Praciller/retailguard-data-platform)
 
-### ML / MLOps
+An incremental retail pipeline that protects customer data and blocks warehouse loads when quality or reconciliation checks fail.
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-  <h3><a href="https://github.com/Praciller/thai-review-sentiment-intelligence">Thai Review Sentiment Intelligence</a></h3>
-  <p><code>Thai NLP / ML Governance</code></p>
-  <p>Wisesight corpus workflow, Thai tokenization, macro-F1 model governance, confidence routing, explainability metadata, and monitoring demo.</p>
-  <p><strong>Stack:</strong> Python &middot; PyThaiNLP &middot; scikit-learn &middot; FastAPI &middot; React</p>
-</td>
-<td width="50%" valign="top">
-  <h3><a href="https://github.com/Praciller/climate-co2-forecasting-ml">Climate CO2 Forecasting ML</a></h3>
-  <p><code>Forecasting / MLOps</code></p>
-  <p>Chronological holdout, rolling-origin backtesting, interval coverage monitoring, metadata-only registry policy, and API/dashboard contracts.</p>
-  <p><strong>Stack:</strong> Python &middot; statsmodels &middot; scikit-learn &middot; PyTorch &middot; FastAPI &middot; React</p>
-</td>
-</tr>
-</table>
+**Core stack:** Python · PostgreSQL · FastAPI · PySpark · DuckDB · Airflow<br>
+[Repository](https://github.com/Praciller/retailguard-data-platform) · [Live dashboard](https://lookerstudio.google.com/reporting/8e913aa6-d7c0-4367-991d-c173c8f05abb/page/2pS1F)
 
-### Multimodal / Product AI
+### [Thai Procurement Intelligence](https://github.com/Praciller/thai-procurement-intelligence)
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-  <h3><a href="https://github.com/Praciller/receipt-ai-expense-tracker">Receipt AI Expense Tracker</a></h3>
-  <p><code>Multimodal AI / Local Storage</code></p>
-  <p>Mock-first multimodal parsing, Buddhist Era date normalization, schema/financial validation, and human review before IndexedDB persistence.</p>
-  <p><strong>Stack:</strong> Next.js &middot; TypeScript &middot; Zod &middot; IndexedDB &middot; AI provider routing</p>
-</td>
-<td width="50%" valign="top">
-  <h3><a href="https://github.com/Praciller/ai-resume-matcher">AI Resume Matcher</a></h3>
-  <p><code>Document AI / Human Review</code></p>
-  <p>PDF/JD validation, 9arm-first provider routing, strict Pydantic report schema, deterministic mock review path, and hiring-scope limitations.</p>
-  <p><strong>Stack:</strong> FastAPI &middot; React &middot; Pydantic &middot; pypdf &middot; Multi-provider LLM routing</p>
-</td>
-</tr>
-</table>
+A bilingual public-data platform that keeps source provenance visible across governed ingestion, search, analytics, and cited AI assistance.
 
-<details>
-<summary><strong>Additional projects</strong></summary>
+**Core stack:** Next.js · FastAPI · PostgreSQL · pgvector · SQLAlchemy<br>
+[Repository](https://github.com/Praciller/thai-procurement-intelligence) · [Live demo](https://thai-procurement-intelligence.vercel.app/)
 
-- [explainable-cancer-diagnosis-ml](https://github.com/Praciller/explainable-cancer-diagnosis-ml) - Educational tabular ML explainability demo with SHAP assets and a medical disclaimer.
-- [smart-qr-kitchen-pos](https://github.com/Praciller/smart-qr-kitchen-pos) - QR ordering and kitchen workflow demo with server-side price validation.
-- [nextjs-langchain-ai-chatbot](https://github.com/Praciller/nextjs-langchain-ai-chatbot) - Mock-first Next.js chat demo with explicit provider opt-in.
-- [AI-Product-Listing-Assistant](https://github.com/Praciller/AI-Product-Listing-Assistant) - Mock-first product listing draft workflow with optional Gemini image analysis.
-- [my-portfolio](https://github.com/Praciller/my-portfolio) - Public technical portfolio site with typed project content.
+## Additional selected projects
 
-</details>
+| Project | Engineering focus |
+| --- | --- |
+| [urban-mobility-data-platform](https://github.com/Praciller/urban-mobility-data-platform) | Validated mobility ingestion, DuckDB/dbt marts, orchestration, and a read-only analytics API. |
+| [thai-review-sentiment-intelligence](https://github.com/Praciller/thai-review-sentiment-intelligence) | Thai sentiment classification with model governance, confidence routing, explanations, and monitoring. |
+| [climate-co2-forecasting-ml](https://github.com/Praciller/climate-co2-forecasting-ml) | Leakage-safe time-series forecasting with backtesting, interval evaluation, anomaly signals, and API contracts. |
+| [stockrush-go](https://github.com/Praciller/stockrush-go) | Concurrency-safe flash-sale reservations with atomic inventory updates and reproducible zero-oversell evidence. |
+| [receipt-ai-expense-tracker](https://github.com/Praciller/receipt-ai-expense-tracker) | Human-reviewed Thai and English receipt parsing with schema validation and browser-local persistence. |
+| [ai-resume-matcher](https://github.com/Praciller/ai-resume-matcher) | Validated PDF-to-job analysis with typed reports, provider routing, and hiring-scope safeguards. |
+| [explainable-cancer-diagnosis-ml](https://github.com/Praciller/explainable-cancer-diagnosis-ml) | Educational tabular ML comparison with SHAP explanations and an explicit medical disclaimer. |
+| [smart-qr-kitchen-pos](https://github.com/Praciller/smart-qr-kitchen-pos) | QR ordering and kitchen operations with server-validated pricing and controlled ticket transitions. |
+| [Fyrre---Magazine-Website-](https://github.com/Praciller/Fyrre---Magazine-Website-) | Accessible, responsive editorial browsing built from a Figma community design with tested content routes. |
+| [my-portfolio](https://github.com/Praciller/my-portfolio) | Recruiter-facing technical evidence hub for public AI and data engineering work. |
 
-## Technical Stack
+## Core stack
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img alt="Core stack icons" src="https://skillicons.dev/icons?i=python,typescript,react,nextjs,fastapi,docker,postgres,githubactions,pytorch,sklearn&perline=10">
-  </a>
-</p>
+**AI systems:** RAG · LangGraph · retrieval evaluation · grounding checks · provider routing<br>
+**Data platforms:** PostgreSQL · PySpark · DuckDB · dbt · Airflow · data quality<br>
+**Application delivery:** Python · FastAPI · TypeScript · React · Next.js · Docker · GitHub Actions
 
-<p align="center">
-  <img alt="SQL" src="https://img.shields.io/static/v1?label=&message=SQL&color=334155&style=flat-square">
-  <img alt="PySpark" src="https://img.shields.io/static/v1?label=&message=PySpark&color=334155&style=flat-square">
-  <img alt="DuckDB" src="https://img.shields.io/static/v1?label=&message=DuckDB&color=334155&style=flat-square">
-  <img alt="dbt-style modeling" src="https://img.shields.io/static/v1?label=&message=dbt--style%20modeling&color=334155&style=flat-square">
-  <img alt="Airflow" src="https://img.shields.io/static/v1?label=&message=Airflow&color=334155&style=flat-square">
-  <img alt="LangGraph" src="https://img.shields.io/static/v1?label=&message=LangGraph&color=1E3A8A&style=flat-square">
-  <img alt="RAG" src="https://img.shields.io/static/v1?label=&message=RAG&color=1E3A8A&style=flat-square">
-  <img alt="Evaluation" src="https://img.shields.io/static/v1?label=&message=Evaluation&color=166534&style=flat-square">
-  <img alt="Guardrails" src="https://img.shields.io/static/v1?label=&message=Guardrails&color=166534&style=flat-square">
-  <img alt="Provider Routing" src="https://img.shields.io/static/v1?label=&message=Provider%20Routing&color=475569&style=flat-square">
-  <img alt="MLflow-style tracking" src="https://img.shields.io/static/v1?label=&message=MLflow--style%20tracking&color=475569&style=flat-square">
-</p>
+## Credentials
 
-## Engineering Principles
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-  <p><strong>Reproducibility</strong></p>
-  <ul>
-    <li>Local-first demos</li>
-    <li>Deterministic fixtures</li>
-    <li>Clear setup paths</li>
-  </ul>
-</td>
-<td width="50%" valign="top">
-  <p><strong>Reliability</strong></p>
-  <ul>
-    <li>Validation gates</li>
-    <li>CI-verifiable workflows</li>
-    <li>Explicit limitations</li>
-  </ul>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-  <p><strong>AI System Safety</strong></p>
-  <ul>
-    <li>Grounded outputs</li>
-    <li>Provider routing</li>
-    <li>Human-review boundaries</li>
-  </ul>
-</td>
-<td width="50%" valign="top">
-  <p><strong>Data Quality</strong></p>
-  <ul>
-    <li>Typed contracts</li>
-    <li>Privacy-safe fixtures</li>
-    <li>Evidence-based documentation</li>
-  </ul>
-</td>
-</tr>
-</table>
-
-## Selected AI Credentials
-
-- [AIAT Super AI Engineer Season 6: Foundation AI (Theory)](https://assessment.aiat.or.th/certificate/42a33cde-b540-4ad0-b294-b81cc7da9a74), 2026
-- Anthropic Academy: Claude API, Claude Code, MCP, subagents, agent skills, and AI Fluency
-- Google Cloud AI/ML skill badges: Vertex AI, Gemini, Imagen, Multimodal RAG, BigQuery ML, Document AI
-- AIS Academy Prompt Engineering & Agentic AI
+- [AIAT Super AI Engineer Season 6 — Foundation AI (Theory)](https://assessment.aiat.or.th/certificate/42a33cde-b540-4ad0-b294-b81cc7da9a74), 2026
 
 ## Contact
 
-[Email](mailto:pakon.poomson@gmail.com) &middot; [LinkedIn](https://www.linkedin.com/in/pakon-poomson/?locale=en-US) &middot; [Portfolio](https://pakon-portfolio.vercel.app/) &middot; [GitHub](https://github.com/Praciller)
+For AI engineering opportunities, please use the portfolio, LinkedIn, or email links above.
