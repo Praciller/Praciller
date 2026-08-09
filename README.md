@@ -22,7 +22,10 @@
   Start with
   <a href="https://github.com/Praciller/customer-support-rag-triage-agent">RAG Triage</a> ·
   <a href="https://github.com/Praciller/retailguard-data-platform">RetailGuard</a> ·
-  <a href="https://github.com/Praciller/thai-procurement-intelligence">Thai Procurement Intelligence</a>
+  <a href="https://github.com/Praciller/thai-procurement-intelligence">Thai Procurement Intelligence</a> ·
+  <a href="https://github.com/Praciller/explainable-cancer-diagnosis-ml">Explainable Cancer</a> ·
+  <a href="https://github.com/Praciller/urban-mobility-data-platform">Urban Mobility</a> ·
+  <a href="https://github.com/Praciller/thai-review-sentiment-intelligence">Thai Review</a>
 </p>
 
 ## Selected engineering results
@@ -53,6 +56,8 @@ A bilingual public-data platform that keeps source provenance visible across gov
 
 **Core stack:** Next.js · FastAPI · PostgreSQL · pgvector · SQLAlchemy<br>
 [Repository](https://github.com/Praciller/thai-procurement-intelligence) · [Live demo](https://thai-procurement-intelligence.vercel.app/)
+
+Official/local snapshot evidence remains separate from the hosted synthetic demo.
 
 ## Additional selected projects
 
