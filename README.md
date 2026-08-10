@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://pakon-portfolio.vercel.app/">Portfolio</a> ·
+  <a href="https://portfolio-pakon.netlify.app/">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/pakon-poomson/?locale=en-US">LinkedIn</a> ·
   <a href="mailto:pakon.poomson@gmail.com">Email</a>
 </p>
@@ -54,7 +54,7 @@ An incremental retail pipeline that protects customer data and blocks warehouse 
 
 A bilingual public-data platform that keeps source provenance visible across governed ingestion, search, analytics, and cited AI assistance.
 
-**Core stack:** Next.js · FastAPI · PostgreSQL · pgvector · SQLAlchemy<br>
+**Core stack:** Next.js · FastAPI · PostgreSQL · deterministic hash-vector retrieval · application-side similarity<br>
 [Repository](https://github.com/Praciller/thai-procurement-intelligence) · [Live demo](https://thai-procurement-intelligence.vercel.app/)
 
 Official/local snapshot evidence remains separate from the hosted synthetic demo.
