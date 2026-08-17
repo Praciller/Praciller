@@ -1,0 +1,31 @@
+<svg width="1200" height="220" viewBox="0 0 1200 220" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<title id="title">Engineering focus</title>
+<desc id="desc">Three compact cards for AI systems, data platforms, and production delivery.</desc>
+<rect width="1200" height="220" rx="22" fill="#0D1117"/>
+<rect x="34" y="28" width="354" height="164" rx="18" fill="#161B22" stroke="#30363D"/>
+<circle cx="86" cy="78" r="24" fill="#211A2D" stroke="#A371F7"/>
+<circle cx="86" cy="78" r="7" fill="#A371F7"/>
+<circle cx="75" cy="66" r="4" fill="#A371F7"/>
+<circle cx="98" cy="64" r="4" fill="#A371F7"/>
+<circle cx="74" cy="92" r="4" fill="#A371F7"/>
+<circle cx="100" cy="91" r="4" fill="#A371F7"/>
+<path d="M79 70L82 73M92 69L90 73M79 86L82 82M93 86L90 82" stroke="#A371F7" stroke-width="1.6"/>
+<text x="126" y="73" fill="#F0F6FC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700">AI Systems</text>
+<text x="126" y="99" fill="#8B949E" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14">RAG · Agents · Evaluation</text>
+<text x="66" y="150" fill="#C9D1D9" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15">Grounded, inspectable workflows</text>
+<rect x="423" y="28" width="354" height="164" rx="18" fill="#161B22" stroke="#30363D"/>
+<circle cx="475" cy="78" r="24" fill="#12243A" stroke="#58A6FF"/>
+<ellipse cx="475" cy="68" rx="12" ry="5" stroke="#58A6FF" stroke-width="1.8"/>
+<path d="M463 68V86C463 89 468 92 475 92C482 92 487 89 487 86V68" stroke="#58A6FF" stroke-width="1.8"/>
+<path d="M463 77C463 80 468 83 475 83C482 83 487 80 487 77" stroke="#58A6FF" stroke-width="1.8"/>
+<text x="515" y="73" fill="#F0F6FC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700">Data Platforms</text>
+<text x="515" y="99" fill="#8B949E" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14">Pipelines · Quality · Analytics</text>
+<text x="455" y="150" fill="#C9D1D9" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15">Governed, reproducible data flows</text>
+<rect x="812" y="28" width="354" height="164" rx="18" fill="#161B22" stroke="#30363D"/>
+<circle cx="864" cy="78" r="24" fill="#13271B" stroke="#3FB950"/>
+<path d="M853 68L844 78L853 88M875 68L884 78L875 88" stroke="#3FB950" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M869 63L859 93" stroke="#3FB950" stroke-width="2" stroke-linecap="round"/>
+<text x="904" y="73" fill="#F0F6FC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700">Production Delivery</text>
+<text x="904" y="99" fill="#8B949E" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14">APIs · Docker · CI/CD</text>
+<text x="844" y="150" fill="#C9D1D9" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15">Typed, tested, observable systems</text>
+</svg>
