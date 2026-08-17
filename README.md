@@ -1,65 +1,73 @@
 <p align="center">
-  <img src="assets/profile-header.svg" alt="Pakon Poomson — AI Engineer building reliable RAG and agent systems" width="100%">
+  <img src="assets/profile-header.svg" alt="Pakon Poomson — AI Engineer building reliable AI systems and data platforms" width="100%">
 </p>
 
 <h1 align="center">Pakon Poomson</h1>
 
 <p align="center">
-  <strong>AI Engineer building reliable RAG and agent systems on production-minded data platforms.</strong>
+  <strong>AI Engineer building reliable, inspectable AI systems on production-minded data platforms.</strong>
 </p>
 
 <p align="center">
-  Python · FastAPI · LangGraph · PostgreSQL · dbt · PySpark · React
+  RAG · Agent Systems · Data Engineering · Applied ML · Software Systems
 </p>
 
 <p align="center">
-  <a href="https://portfolio-pakon.netlify.app/">Portfolio</a> ·
+  <a href="https://dreamlogsdata.com/"><strong>Dream Logs Data</strong></a> ·
   <a href="https://www.linkedin.com/in/pakon-poomson/?locale=en-US">LinkedIn</a> ·
-  <a href="mailto:pakon.poomson@gmail.com">Email</a>
+  <a href="mailto:pakon.poomson@gmail.com">Email</a> ·
+  <a href="https://www.facebook.com/dreamlogsdata/">Facebook</a> ·
+  <a href="https://dreamlogsdata.com/rss.xml">RSS</a>
 </p>
 
 <p align="center">
-  Start with
-  <a href="https://github.com/Praciller/customer-support-rag-triage-agent">RAG Triage</a> ·
-  <a href="https://github.com/Praciller/retailguard-data-platform">RetailGuard</a> ·
-  <a href="https://github.com/Praciller/thai-procurement-intelligence">Thai Procurement Intelligence</a> ·
-  <a href="https://github.com/Praciller/explainable-cancer-diagnosis-ml">Explainable Cancer</a> ·
-  <a href="https://github.com/Praciller/urban-mobility-data-platform">Urban Mobility</a> ·
-  <a href="https://github.com/Praciller/thai-review-sentiment-intelligence">Thai Review</a>
+  Python · FastAPI · LangGraph · PostgreSQL · PySpark · dbt · React · Docker
 </p>
 
-## Selected engineering results
+## What I build
+
+- **AI systems** — RAG, agent workflows, grounding and retrieval evaluation, provider routing, and human-review paths.
+- **Data platforms** — governed ingestion, incremental pipelines, data quality, reconciliation, analytics-ready models, and APIs.
+- **Production-minded software** — typed contracts, observability, security boundaries, tests, CI, and reproducible evidence.
+
+## Featured engineering results
 
 - [Customer Support RAG Triage Agent](https://github.com/Praciller/customer-support-rag-triage-agent) — Built a seven-node workflow with retrieval, grounding checks, inspectable traces, and deterministic evaluation.
 - [RetailGuard Data Platform](https://github.com/Praciller/retailguard-data-platform) — Built an incremental retail platform with PII protection, blocking quality gates, reconciliation, and two-run idempotency proof.
 - [StockRush Go](https://github.com/Praciller/stockrush-go) — Demonstrated 1,000 concurrent purchase attempts, exactly 100 successful reservations, and zero overselling.
 
-## Start Here
+## Start here
 
 ### [Customer Support RAG Triage Agent](https://github.com/Praciller/customer-support-rag-triage-agent)
 
 A typed support workflow that retrieves relevant cases, checks grounding, exposes every decision in a trace, and routes the final action to a human reviewer.
 
-**Core stack:** Python · FastAPI · LangGraph · Qdrant · FastEmbed · React<br>
+**Core stack:** Python · FastAPI · LangGraph · Qdrant · FastEmbed · React  
 [Repository](https://github.com/Praciller/customer-support-rag-triage-agent) · [Live demo](https://pracill-customer-support-rag-triage-agent.hf.space/)
 
 ### [RetailGuard Data Platform](https://github.com/Praciller/retailguard-data-platform)
 
 An incremental retail pipeline that protects customer data and blocks warehouse loads when quality or reconciliation checks fail.
 
-**Core stack:** Python · PostgreSQL · FastAPI · PySpark · DuckDB · Airflow<br>
+**Core stack:** Python · PostgreSQL · FastAPI · PySpark · DuckDB · Airflow  
 [Repository](https://github.com/Praciller/retailguard-data-platform) · [Live dashboard](https://lookerstudio.google.com/reporting/8e913aa6-d7c0-4367-991d-c173c8f05abb/page/2pS1F)
 
 ### [Thai Procurement Intelligence](https://github.com/Praciller/thai-procurement-intelligence)
 
 A bilingual public-data platform that keeps source provenance visible across governed ingestion, search, analytics, and cited AI assistance.
 
-**Core stack:** Next.js · FastAPI · PostgreSQL · deterministic hash-vector retrieval · application-side similarity<br>
+**Core stack:** Next.js · FastAPI · PostgreSQL · deterministic hash-vector retrieval · application-side similarity  
 [Repository](https://github.com/Praciller/thai-procurement-intelligence) · [Live demo](https://thai-procurement-intelligence.vercel.app/)
 
 Official/local snapshot evidence remains separate from the hosted synthetic demo.
 
-## Additional selected projects
+## Dream Logs Data
+
+[**dreamlogsdata.com**](https://dreamlogsdata.com/) is where I document engineering decisions, experiments, results, and limitations from hands-on work across **AI Engineering, Data Engineering, and Software Systems**.
+
+[Articles](https://dreamlogsdata.com/articles) · [Projects](https://dreamlogsdata.com/projects) · [About](https://dreamlogsdata.com/about) · [RSS](https://dreamlogsdata.com/rss.xml)
+
+## More selected projects
 
 | Project | Engineering focus |
 | --- | --- |
@@ -71,13 +79,11 @@ Official/local snapshot evidence remains separate from the hosted synthetic demo
 | [ai-resume-matcher](https://github.com/Praciller/ai-resume-matcher) | Validated PDF-to-job analysis with typed reports, provider routing, and hiring-scope safeguards. |
 | [explainable-cancer-diagnosis-ml](https://github.com/Praciller/explainable-cancer-diagnosis-ml) | Educational tabular ML comparison with SHAP explanations and an explicit medical disclaimer. |
 | [smart-qr-kitchen-pos](https://github.com/Praciller/smart-qr-kitchen-pos) | QR ordering and kitchen operations with server-validated pricing and controlled ticket transitions. |
-| [Fyrre---Magazine-Website-](https://github.com/Praciller/Fyrre---Magazine-Website-) | Accessible, responsive editorial browsing built from a Figma community design with tested content routes. |
-| [my-portfolio](https://github.com/Praciller/my-portfolio) | Recruiter-facing technical evidence hub for public AI and data engineering work. |
 
 ## Core stack
 
-**AI systems:** RAG · LangGraph · retrieval evaluation · grounding checks · provider routing<br>
-**Data platforms:** PostgreSQL · PySpark · DuckDB · dbt · Airflow · data quality<br>
+**AI systems:** RAG · LangGraph · retrieval evaluation · grounding checks · provider routing  
+**Data platforms:** PostgreSQL · PySpark · DuckDB · dbt · Airflow · data quality  
 **Application delivery:** Python · FastAPI · TypeScript · React · Next.js · Docker · GitHub Actions
 
 ## Credentials
@@ -86,4 +92,8 @@ Official/local snapshot evidence remains separate from the hosted synthetic demo
 
 ## Contact
 
-For AI engineering opportunities, please use the portfolio, LinkedIn, or email links above.
+For AI engineering, data engineering, and software-system opportunities:
+
+**[LinkedIn](https://www.linkedin.com/in/pakon-poomson/?locale=en-US)** · **[Email](mailto:pakon.poomson@gmail.com)** · **[Dream Logs Data](https://dreamlogsdata.com/)**
+
+For new articles and project notes: [Facebook](https://www.facebook.com/dreamlogsdata/) · [RSS](https://dreamlogsdata.com/rss.xml)
