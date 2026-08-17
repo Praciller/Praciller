@@ -1,99 +1,70 @@
 <p align="center">
-  <img src="assets/profile-header.svg" alt="Pakon Poomson — AI Engineer building reliable AI systems and data platforms" width="100%">
-</p>
-
-<h1 align="center">Pakon Poomson</h1>
-
-<p align="center">
-  <strong>AI Engineer building reliable, inspectable AI systems on production-minded data platforms.</strong>
+  <img src="assets/profile-header.svg" alt="Pakon Poomson — AI Engineer and Data Engineer" width="100%">
 </p>
 
 <p align="center">
-  RAG · Agent Systems · Data Engineering · Applied ML · Software Systems
+  <a href="https://dreamlogsdata.com/"><img alt="Dream Logs Data" src="https://img.shields.io/badge/Dream_Logs_Data-F97316?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/pakon-poomson/?locale=en-US"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:pakon.poomson@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-30363D?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.facebook.com/dreamlogsdata/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white"></a>
 </p>
+
+## Engineering focus
 
 <p align="center">
-  <a href="https://dreamlogsdata.com/"><strong>Dream Logs Data</strong></a> ·
-  <a href="https://www.linkedin.com/in/pakon-poomson/?locale=en-US">LinkedIn</a> ·
-  <a href="mailto:pakon.poomson@gmail.com">Email</a> ·
-  <a href="https://www.facebook.com/dreamlogsdata/">Facebook</a> ·
-  <a href="https://dreamlogsdata.com/rss.xml">RSS</a>
+  <img src="assets/engineering-focus.svg" alt="AI Systems, Data Platforms, and Production Delivery" width="100%">
 </p>
 
-<p align="center">
-  Python · FastAPI · LangGraph · PostgreSQL · PySpark · dbt · React · Docker
-</p>
-
-## What I build
-
-- **AI systems** — RAG, agent workflows, grounding and retrieval evaluation, provider routing, and human-review paths.
-- **Data platforms** — governed ingestion, incremental pipelines, data quality, reconciliation, analytics-ready models, and APIs.
-- **Production-minded software** — typed contracts, observability, security boundaries, tests, CI, and reproducible evidence.
-
-## Featured engineering results
-
-- [Customer Support RAG Triage Agent](https://github.com/Praciller/customer-support-rag-triage-agent) — Built a seven-node workflow with retrieval, grounding checks, inspectable traces, and deterministic evaluation.
-- [RetailGuard Data Platform](https://github.com/Praciller/retailguard-data-platform) — Built an incremental retail platform with PII protection, blocking quality gates, reconciliation, and two-run idempotency proof.
-- [StockRush Go](https://github.com/Praciller/stockrush-go) — Demonstrated 1,000 concurrent purchase attempts, exactly 100 successful reservations, and zero overselling.
-
-## Start here
+## Featured work
 
 ### [Customer Support RAG Triage Agent](https://github.com/Praciller/customer-support-rag-triage-agent)
-
-A typed support workflow that retrieves relevant cases, checks grounding, exposes every decision in a trace, and routes the final action to a human reviewer.
-
-**Core stack:** Python · FastAPI · LangGraph · Qdrant · FastEmbed · React  
+**7-node RAG workflow** · grounding checks · inspectable traces · deterministic evaluation  
 [Repository](https://github.com/Praciller/customer-support-rag-triage-agent) · [Live demo](https://pracill-customer-support-rag-triage-agent.hf.space/)
 
 ### [RetailGuard Data Platform](https://github.com/Praciller/retailguard-data-platform)
-
-An incremental retail pipeline that protects customer data and blocks warehouse loads when quality or reconciliation checks fail.
-
-**Core stack:** Python · PostgreSQL · FastAPI · PySpark · DuckDB · Airflow  
+**Incremental retail platform** · PII protection · blocking quality gates · reconciliation · idempotency proof  
 [Repository](https://github.com/Praciller/retailguard-data-platform) · [Live dashboard](https://lookerstudio.google.com/reporting/8e913aa6-d7c0-4367-991d-c173c8f05abb/page/2pS1F)
 
 ### [Thai Procurement Intelligence](https://github.com/Praciller/thai-procurement-intelligence)
-
-A bilingual public-data platform that keeps source provenance visible across governed ingestion, search, analytics, and cited AI assistance.
-
-**Core stack:** Next.js · FastAPI · PostgreSQL · deterministic hash-vector retrieval · application-side similarity  
+**Bilingual public-data platform** · governed ingestion · provenance-aware search · cited AI assistance  
 [Repository](https://github.com/Praciller/thai-procurement-intelligence) · [Live demo](https://thai-procurement-intelligence.vercel.app/)
 
-Official/local snapshot evidence remains separate from the hosted synthetic demo.
+## Toolbox
 
-## Dream Logs Data
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
+  <img alt="Apache Spark" src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white">
+  <img alt="dbt" src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white">
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
+</p>
 
-[**dreamlogsdata.com**](https://dreamlogsdata.com/) is where I document engineering decisions, experiments, results, and limitations from hands-on work across **AI Engineering, Data Engineering, and Software Systems**.
-
-[Articles](https://dreamlogsdata.com/articles) · [Projects](https://dreamlogsdata.com/projects) · [About](https://dreamlogsdata.com/about) · [RSS](https://dreamlogsdata.com/rss.xml)
-
-## More selected projects
+<details>
+<summary><strong>More selected projects</strong></summary>
+<br>
 
 | Project | Engineering focus |
 | --- | --- |
-| [urban-mobility-data-platform](https://github.com/Praciller/urban-mobility-data-platform) | Validated mobility ingestion, DuckDB/dbt marts, orchestration, and a read-only analytics API. |
-| [thai-review-sentiment-intelligence](https://github.com/Praciller/thai-review-sentiment-intelligence) | Thai sentiment classification with model governance, confidence routing, explanations, and monitoring. |
-| [climate-co2-forecasting-ml](https://github.com/Praciller/climate-co2-forecasting-ml) | Leakage-safe time-series forecasting with backtesting, interval evaluation, anomaly signals, and API contracts. |
-| [stockrush-go](https://github.com/Praciller/stockrush-go) | Concurrency-safe flash-sale reservations with atomic inventory updates and reproducible zero-oversell evidence. |
-| [receipt-ai-expense-tracker](https://github.com/Praciller/receipt-ai-expense-tracker) | Human-reviewed Thai and English receipt parsing with schema validation and browser-local persistence. |
-| [ai-resume-matcher](https://github.com/Praciller/ai-resume-matcher) | Validated PDF-to-job analysis with typed reports, provider routing, and hiring-scope safeguards. |
-| [explainable-cancer-diagnosis-ml](https://github.com/Praciller/explainable-cancer-diagnosis-ml) | Educational tabular ML comparison with SHAP explanations and an explicit medical disclaimer. |
-| [smart-qr-kitchen-pos](https://github.com/Praciller/smart-qr-kitchen-pos) | QR ordering and kitchen operations with server-validated pricing and controlled ticket transitions. |
+| [StockRush Go](https://github.com/Praciller/stockrush-go) | 1,000 concurrent purchase attempts, exactly 100 reservations, zero overselling. |
+| [Urban Mobility Data Platform](https://github.com/Praciller/urban-mobility-data-platform) | Validated ingestion, DuckDB/dbt marts, orchestration, and analytics API. |
+| [Thai Review Sentiment Intelligence](https://github.com/Praciller/thai-review-sentiment-intelligence) | Thai sentiment classification with confidence routing, explanations, and monitoring. |
+| [Climate CO₂ Forecasting](https://github.com/Praciller/climate-co2-forecasting-ml) | Leakage-safe forecasting, backtesting, interval evaluation, and anomaly signals. |
+| [Receipt AI Expense Tracker](https://github.com/Praciller/receipt-ai-expense-tracker) | Human-reviewed Thai/English receipt parsing with schema validation. |
+| [AI Resume Matcher](https://github.com/Praciller/ai-resume-matcher) | Validated PDF-to-job analysis with typed reports and provider routing. |
 
-## Core stack
+</details>
 
-**AI systems:** RAG · LangGraph · retrieval evaluation · grounding checks · provider routing  
-**Data platforms:** PostgreSQL · PySpark · DuckDB · dbt · Airflow · data quality  
-**Application delivery:** Python · FastAPI · TypeScript · React · Next.js · Docker · GitHub Actions
+## Dream Logs Data
 
-## Credentials
+I document engineering decisions, experiments, evidence, and limitations from hands-on work across **AI Engineering, Data Engineering, and Software Systems**.
 
-- [AIAT Super AI Engineer Season 6 — Foundation AI (Theory)](https://assessment.aiat.or.th/certificate/42a33cde-b540-4ad0-b294-b81cc7da9a74), 2026
+[**dreamlogsdata.com**](https://dreamlogsdata.com/) · [Articles](https://dreamlogsdata.com/articles) · [Projects](https://dreamlogsdata.com/projects) · [About](https://dreamlogsdata.com/about) · [RSS](https://dreamlogsdata.com/rss.xml)
 
-## Contact
+## Credential
 
-For AI engineering, data engineering, and software-system opportunities:
-
-**[LinkedIn](https://www.linkedin.com/in/pakon-poomson/?locale=en-US)** · **[Email](mailto:pakon.poomson@gmail.com)** · **[Dream Logs Data](https://dreamlogsdata.com/)**
-
-For new articles and project notes: [Facebook](https://www.facebook.com/dreamlogsdata/) · [RSS](https://dreamlogsdata.com/rss.xml)
+[AIAT Super AI Engineer Season 6 — Foundation AI (Theory)](https://assessment.aiat.or.th/certificate/42a33cde-b540-4ad0-b294-b81cc7da9a74) · 2026
