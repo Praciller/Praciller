@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://pakon-portfolio.vercel.app/">Portfolio</a> ·
+  <a href="https://dreamlogsdata.com/">Dream Logs Data</a> ·
   <a href="https://www.linkedin.com/in/pakon-poomson/?locale=en-US">LinkedIn</a> ·
   <a href="mailto:pakon.poomson@gmail.com">Email</a>
 </p>
@@ -21,12 +21,14 @@
 <p align="center">
   Start with
   <a href="https://github.com/Praciller/customer-support-rag-triage-agent">RAG Triage</a> ·
+  <a href="https://github.com/Praciller/evalops-lab">EvalOps Lab</a> ·
   <a href="https://github.com/Praciller/retailguard-data-platform">RetailGuard</a> ·
   <a href="https://github.com/Praciller/thai-procurement-intelligence">Thai Procurement Intelligence</a> ·
   <a href="https://github.com/Praciller/explainable-cancer-diagnosis-ml">Explainable Cancer</a> ·
-  <a href="https://github.com/Praciller/urban-mobility-data-platform">Urban Mobility</a> ·
-  <a href="https://github.com/Praciller/thai-review-sentiment-intelligence">Thai Review</a>
+  <a href="https://github.com/Praciller/urban-mobility-data-platform">Urban Mobility</a>
 </p>
+
+> Dream Logs Data is the canonical public workspace for project notes, evidence, and demos.
 
 ## Selected engineering results
 
