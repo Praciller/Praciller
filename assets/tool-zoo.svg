@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="236" viewBox="0 0 1200 236" role="img" aria-labelledby="title desc">
+  <title id="title">Tool Zoo</title>
+  <desc id="desc">Playful mascot cards for Pakon's everyday engineering tools.</desc>
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0c1c2b"/><stop offset="1" stop-color="#102a3a"/></linearGradient>
+    <linearGradient id="mint" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#55e6d5"/><stop offset="1" stop-color="#8df0b6"/></linearGradient>
+  </defs>
+  <rect width="1200" height="236" rx="22" fill="#081521"/>
+  <g font-family="Segoe UI, Inter, Arial, sans-serif">
+    <text x="42" y="42" fill="#edf7f8" font-size="18" font-weight="700" letter-spacing="1.5">TOOL ZOO</text>
+    <text x="1158" y="42" fill="#7895a7" font-size="14" text-anchor="end">same tools, always moving</text>
+  </g>
+  <g stroke="#1e4455" fill="url(#panel)">
+    <rect x="38" y="66" width="146" height="134" rx="18"/><rect x="201" y="66" width="146" height="134" rx="18"/>
+    <rect x="364" y="66" width="146" height="134" rx="18"/><rect x="527" y="66" width="146" height="134" rx="18"/>
+    <rect x="690" y="66" width="146" height="134" rx="18"/><rect x="853" y="66" width="146" height="134" rx="18"/>
+    <rect x="1016" y="66" width="146" height="134" rx="18"/>
+  </g>
+  <g transform="translate(111 119)" fill="none" stroke="url(#mint)" stroke-width="10" stroke-linecap="round">
+    <path d="M-27-10c0-23 47-23 47 0 0 18-39 13-39 31 0 17 37 18 42 1"/>
+  </g>
+  <circle cx="131" cy="108" r="2.6" fill="#07111c"/>
+  <g transform="translate(274 116)" fill="#5caee8" stroke="#9bd9ff" stroke-width="2">
+    <ellipse cx="0" cy="2" rx="27" ry="22"/><circle cx="-20" cy="-7" r="13"/><circle cx="20" cy="-7" r="13"/>
+    <path d="M-4 14c0 15 1 27 14 27 9 0 13-7 13-14-6 5-12 5-16 1-5-5-4-12-4-18Z"/>
+    <circle cx="-8" cy="-5" r="2.5" fill="#07111c" stroke="none"/><circle cx="9" cy="-5" r="2.5" fill="#07111c" stroke="none"/>
+  </g>
+  <g transform="translate(437 122)">
+    <path d="M-33 1c9 24 56 28 72 1-12 3-17-5-17-13-7 4-16 5-25 3-9-2-20-3-30 0Z" fill="#4fc4f2"/>
+    <rect x="-18" y="-29" width="14" height="12" rx="2" fill="#7edfff"/><rect x="0" y="-29" width="14" height="12" rx="2" fill="#7edfff"/><rect x="18" y="-29" width="14" height="12" rx="2" fill="#7edfff"/>
+    <rect x="0" y="-45" width="14" height="12" rx="2" fill="#7edfff"/><circle cx="18" cy="0" r="2.6" fill="#07111c"/>
+  </g>
+  <g transform="translate(600 120)" fill="#dcebf0">
+    <circle cx="0" cy="0" r="28"/><path d="M-22-17 -18-40 -4-27M22-17 18-40 4-27"/>
+    <circle cx="-9" cy="-3" r="3" fill="#07111c"/><circle cx="9" cy="-3" r="3" fill="#07111c"/><path d="M-7 10Q0 16 7 10" fill="none" stroke="#07111c" stroke-width="3" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(763 118)">
+    <path d="m0-34 10 22 25 3-18 17 5 25L0 21-22 33l5-25-18-17 25-3Z" fill="#ffd768" stroke="#ff9e64" stroke-width="2"/>
+    <circle cx="-8" cy="0" r="2.5" fill="#52331d"/><circle cx="8" cy="0" r="2.5" fill="#52331d"/><path d="M-7 11Q0 16 7 11" fill="none" stroke="#52331d" stroke-width="2.5" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(926 121)">
+    <ellipse cx="0" cy="-20" rx="26" ry="9" fill="#93b8ff"/><rect x="-26" y="-20" width="52" height="34" fill="#6c94eb"/>
+    <ellipse cx="0" cy="14" rx="26" ry="9" fill="#5d82d0"/><ellipse cx="0" cy="-20" rx="26" ry="9" fill="#a7c6ff"/>
+    <circle cx="-8" cy="-4" r="2.4" fill="#07111c"/><circle cx="8" cy="-4" r="2.4" fill="#07111c"/><path d="M-7 6Q0 11 7 6" fill="none" stroke="#07111c" stroke-width="2.5" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(1089 119)">
+    <path d="M0-37C18-26 25-7 18 13L0 31-18 13C-25-7-18-26 0-37Z" fill="#dffcf7" stroke="#53dfcf" stroke-width="3"/>
+    <circle cx="0" cy="-8" r="9" fill="#55e6d5"/><path d="M-16 14-28 27-10 24M16 14 28 27 10 24" fill="#79f2b7"/><path d="M-6 30 0 45 6 30" fill="#63e8c8"/>
+  </g>
+  <g font-family="Segoe UI, Inter, Arial, sans-serif" fill="#bfd0da" font-size="13" text-anchor="middle">
+    <text x="111" y="184">Python</text><text x="274" y="184">PostgreSQL</text><text x="437" y="184">Docker</text>
+    <text x="600" y="184">GitHub</text><text x="763" y="184">PySpark</text><text x="926" y="184">SQL</text><text x="1089" y="184">FastAPI</text>
+  </g>
+  <g fill="#5de5d8">
+    <circle cx="58" sy="36" r="3"><animate attributeName="opacity" values=".2;1;.2" dur="2s" repeatCount="indefinite"/></circle>
+    <circle cx="70" cy="36" r="3"><animate attributeName="opacity" values="1;.2;1" dur="2s" repeatCount="indefinite"/></circle>
+  </g>
+</svg>
