@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 238" role="img" aria-labelledby="title desc">
+  <title id="title">Current Lab</title>
+  <desc id="desc">OpenDQ Observatory, EvalOps Lab, VeriClaim and Dream Logs Data</desc>
+  <rect width="1000" height="238" rx="22" fill="#071923"/>
+  <rect x="1" y="1" width="998" height="236" rx="21" fill="none" stroke="#163746"/>
+  <text x="34" y="42" fill="#E6EDF3" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="700">CURRENT LAB</text>
+  <circle cx="158" cy="36" r="4" fill="#5EEAD4"/>
+  <text x="966" y="40" text-anchor="end" fill="#6F8998" font-family="Segoe UI,Arial,sans-serif" font-size="11">what I'm building now</text>
+  <g transform="translate(28 66)">
+    <rect width="224" height="142" rx="16" fill="#0A2230" stroke="#174052"/>
+    <path d="M22 39h18l7-14 11 30 8-16h20" fill="none" stroke="#5EEAD4" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="87" cy="39" r="4" fill="#5EEAD4"/>
+    <text x="20" y="78" fill="#E6EDF3" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="700">OpenDQ Observatory</text>
+    <text x="20" y="103" fill="#8FA8B5" font-family="Segoe UI,Arial,sans-serif" font-size="12">Data quality you can actually see.</text>
+    <text x="20" y="126" fill="#5EEAD4" font-family="Segoe UI,Arial,sans-serif" font-size="10">DATA QUALITY · OBSERVABILITY</text>
+  </g>
+  <g transform="translate(268 66)">
+    <rect width="224" height="142" rx="16" fill="#0A2230" stroke="#174052"/>
+    <circle cx="45" cy="38" r="20" fill="#0D2D3B" stroke="#39C6B4"/>
+    <path d="M35 38l7 7 14-16" fill="none" stroke="#5EEAD4" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="20" y="78" fill="#E6EDF3" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="700">EvalOps Lab</text>
+    <text x="20" y="103" fill="#8FA8B5" font-family="Segoe UI,Arial,sans-serif" font-size="12">Test AI before trusting it.</text>
+    <text x="20" y="126" fill="#5EEAD4" font-family="Segoe UI,Arial,sans-serif" font-size="10">EVALUATION · REGRESSION</text>
+  </g>
+  <g transform="translate(508 66)">
+    <rect width="224" height="142" rx="16" fill="#0A2230" stroke="#174052"/>
+    <path d="M29 22h32l12 12v32H29z" fill="#0D2D3B" stroke="#39C6B4"/>
+    <path d="M61 22v13h13M38 45h26M38 54h18" fill="none" stroke="#5EEAD4" stroke-width="2" stroke-linecap="round"/>
+    <text x="20" y="78" fill="#E6EDF3" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="700">VeriClaim</text>
+    <text x="20" y="103" fill="#8FA8B5" font-family="Segoe UI,Arial,sans-serif" font-size="12">Check claims with evidence.</text>
+    <text x="20" y="126" fill="#5EEAD4" font-family="Segoe UI,Arial,sans-serif" font-size="10">EVIDENCE · AGENTS</text>
+  </g>
+  <g transform="translate(748 66)">
+    <rect width="224" height="142" rx="16" fill="#0A2230" stroke="#174052"/>
+    <rect x="29" y="23" width="49" height="43" rx="8" fill="#0D2D3B" stroke="#39C6B4"/>
+    <path d="M40 36h27M40 46h21M40 56h15" fill="none" stroke="#5EEAD4" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="82" cy="24" r="5" fill="#A3E635"/>
+    <text x="20" y="78" fill="#E6EDF3" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="700">Dream Logs Data</text>
+    <text x="20" y="103" fill="#8FA8B5" font-family="Segoe UI,Arial,sans-serif" font-size="12">Notes from what I'm building.</text>
+    <text x="20" y="126" fill="#5EEAD4" font-family="Segoe UI,Arial,sans-serif" font-size="10">BUILD · BREAK · WRITE</text>
+  </g>
+</svg>

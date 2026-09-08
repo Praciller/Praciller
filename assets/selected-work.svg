@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 270" role="img" aria-labelledby="title desc">
+  <title id="title">Selected Work</title>
+  <desc id="desc">Three selected AI and data projects</desc>
+  <rect width="1000" height="270" rx="22" fill="#071923"/>
+  <rect x="1" y="1" width="998" height="268" rx="21" fill="none" stroke="#163746"/>
+  <text x="34" y="42" fill="#E6EDF3" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="700">SELECTED WORK</text>
+  <path d="M182 36h44" stroke="#174052" stroke-width="2"/>
+  <circle cx="235" cy="36" r="4" fill="#5EEAD4"/>
+  <text x="966" y="40" text-anchor="end" fill="#6F8998" font-family="Segoe UI,Arial,sans-serif" font-size="11">a few things worth opening</text>
+  <g transform="translate(28 67)">
+    <rect width="299" height="174" rx="16" fill="#0A2230" stroke="#174052"/>
+    <circle cx="28" cy="30" r="8" fill="#5EEAD4" opacity=".18"/>
+    <circle cx="28" cy="30" r="3" fill="#5EEAD4"/>
+    <path d="M40 30h45m-22 0v18h34" fill="none" stroke="#39C6B4" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="99" cy="48" r="3" fill="#A3E635"/>
+    <text x="20" y="78" fill="#E6EDF3" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="700">Customer Support RAG Agent</text>
+    <text x="20" y="104" fill="#8FA8B5" font-family="Segoe UI,Arial,sans-serif" font-size="12">Grounded support with visible routing.</text>
+    <rect x="20" y="126" width="52" height="22" rx="11" fill="#0D2D3B"/><text x="46" y="141" text-anchor="middle" fill="#9CCBD2" font-family="Segoe UI,Arial,sans-serif" font-size="10">Python</text>
+    <rect x="79" y="126" width="70" height="22" rx="11" fill="#0D2D3B"/><text x="114" y="141" text-anchor="middle" fill="#9CCBD2" font-family="Segoe UI,Arial,sans-serif" font-size="10">LangGraph</text>
+    <rect x="156" y="126" width="60" height="22" rx="11" fill="#0D2D3B"/><text x="186" y="141" text-anchor="middle" fill="#9CCBD2" font-family="Segoe UI,Arial,sans-serif" font-size="10">FastAPI</text>
+  </g>
+  <g transform="translate(351 67)">
+    <rect width="299" height="174" rx="16" fill="#0A2230" stroke="#174052"/>
+    <path d="M22 28h70M22 38h52M22 48h63" stroke="#39C6B4" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="96" cy="28" r="3" fill="#5EEAD4"/>
+    <circle cx="78" cy="38" r="3" fill="#A3E635"/>
+    <circle cx="89" cy="48" r="3" fill="#5EEAD4"/>
+    <text x="20" y="78" fill="#E6EDF3" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="700">Thai Procurement Intelligence</text>
+    <text x="20" y="104" fill="#8FA8B5" font-family="Segoe UI,Arial,sans-serif" font-size="12">Public data with sources you can trace.</text>
+    <rect x="20" y="126" width="52" height="22" rx="11" fill="#0D2D3B"/><text x="46" y="141" text-anchor="middle" fill="#9CCBD2" font-family="Segoe UI,Arial,sans-serif" font-size="10">Python</text>
+    <rect x="79" y="126" width="78" height="22" rx="11" fill="#0D2D3B"/><text x="118" y="141" text-anchor="middle" fill="#9CCBD2" font-family="Segoe UI,Arial,sans-serif" font-size="10">PostgreSQL</text>
+    <rect x="164" y="126" width="58" height="22" rx="11" fill="#0D2D3B"/><text x="193" y="141" text-anchor="middle" fill="#9CCBD2" font-family="Segoe UI,Arial,sans-serif" font-size="10">Next.js</text>
+  </g>
+  <g transform="translate(674 67)">
+    <rect width="298" height="174" rx="16" fill="#0A2230" stroke="#174052"/>
+    <path d="M24 49c18-30 42-30 64 0M34 49c12-18 26-18 44 0" fill="none" stroke="#39C6B4" stroke-width="2"/>
+    <circle cx="56" cy="32" r="5" fill="#5EEAD4"/>
+    <circle cx="77" cy="48" r="3" fill="#A3E635"/>
+    <text x="20" y="78" fill="#E6EDF3" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="700">Explainable Cancer Diagnosis ML</text>
+    <text x="20" y="104" fill="#8FA8B5" font-family="Segoe UI,Arial,sans-serif" font-size="12">Explainable ML with clear boundaries.</text>
+    <rect x="20" y="126" width="52" height="22" rx="11" fill="#0D2D3B"/><text x="46" y="141" text-anchor="middle" fill="#9CCBD2" font-family="Segoe UI,Arial,sans-serif" font-size="10">Python</text>
+    <rect x="79" y="126" width="46" height="22" rx="11" fill="#0D2D3B"/><text x="102" y="141" text-anchor="middle" fill="#9CCBD2" font-family="Segoe UI,Arial,sans-serif" font-size="10">SHAP</text>
+    <rect x="132" y="126" width="60" height="22" rx="11" fill="#0D2D3B"/><text x="162" y="141" text-anchor="middle" fill="#9CCBD2" font-family="Segoe UI,Arial,sans-serif" font-size="10">FastAPI</text>
+  </g>
+</svg>

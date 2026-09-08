@@ -3,44 +3,53 @@
 </p>
 
 <p align="center">
-  <a href="https://dreamlogsdata.com/">Dream Logs Data</a> |
-  <a href="https://www.linkedin.com/in/pakon-poomson/?locale=en-US">LinkedIn</a> |
+  <a href="https://dreamlogsdata.com/">Dream Logs Data</a> ·
+  <a href="https://www.linkedin.com/in/pakon-poomson/?locale=en-US">LinkedIn</a> ·
   <a href="mailto:pakon.poomson@gmail.com">Email</a>
 </p>
 
-<p align="center"><sub>AI Engineer | Data Engineer</sub></p>
+<p align="center"><sub>AI Engineer · Data Engineer</sub></p>
 
-## Now
+<p align="center">
+  <img src="assets/current-lab.svg" alt="Current Lab" width="100%">
+</p>
+<p align="center"><sub>
+  <a href="https://github.com/Praciller/opendq-observatory">OpenDQ</a> ·
+  <a href="https://github.com/Praciller/evalops-lab">EvalOps</a> ·
+  <a href="https://github.com/Praciller/vericlaim-ai">VeriClaim</a> ·
+  <a href="https://dreamlogsdata.com/">Dream Logs Data</a>
+</sub></p>
 
-- **[OpenDQ Observatory](https://github.com/Praciller/opendq-observatory)** - data quality you can actually see.
-- **[EvalOps Lab](https://github.com/Praciller/evalops-lab)** - testing AI before trusting it.
-- **[VeriClaim](https://github.com/Praciller/vericlaim-ai)** - checking claims with evidence.
-- **[Dream Logs Data](https://dreamlogsdata.com/)** - notes from what I'm building.
-
-## Selected Work
-
-### [Customer Support RAG Agent](https://github.com/Praciller/customer-support-rag-triage-agent)
-Grounded support answers with visible routing and checks.<br>
-`Python` | `LangGraph` | `FastAPI` | [Repo](https://github.com/Praciller/customer-support-rag-triage-agent) | [Demo](https://pracill-customer-support-rag-triage-agent.hf.space/)
-
-### [Thai Procurement Intelligence](https://github.com/Praciller/thai-procurement-intelligence)
-Public procurement data with sources you can trace.<br>
-`Python` | `PostgreSQL` | `Next.js` | [Repo](https://github.com/Praciller/thai-procurement-intelligence) | [Demo](https://thai-procurement-intelligence.vercel.app/)
-
-<p align="right"><a href="https://github.com/Praciller?tab=repositories">More projects -></a></p>
-
-## Tool Zoo
+<p align="center">
+  <img src="assets/selected-work.svg" alt="Selected Work" width="100%">
+</p>
+<p align="center"><sub>
+  <a href="https://github.com/Praciller/customer-support-rag-triage-agent">RAG Repo</a> / <a href="https://pracill-customer-support-rag-triage-agent.hf.space/">Demo</a> ·
+  <a href="https://github.com/Praciller/thai-procurement-intelligence">Procurement Repo</a> / <a href="https://thai-procurement-intelligence.vercel.app/">Demo</a> ·
+  <a href="https://github.com/Praciller/explainable-cancer-diagnosis-ml">ML Repo</a> / <a href="https://dreamlogsdata.com/en/projects/explainable-cancer-diagnosis">Story</a>
+</sub></p>
+<p align="center"><a href="https://github.com/Praciller?tab=repositories"><sub>more projects →</sub></a></p>
 
 <p align="center">
   <img src="assets/tool-zoo.svg" alt="Tool Zoo - Python, PostgreSQL, Docker, GitHub, PySpark, SQL and FastAPI" width="100%">
 </p>
+<p align="center"><sub>TypeScript · React / Next.js · dbt</sub></p>
 
-<p align="center"><sub>also: TypeScript | React / Next.js | dbt</sub></p>
+### Latest notes
+<!-- BLOG-POST-LIST:START -->
+- [How Much Electricity and Water Does One AI Prompt Use?](https://dreamlogsdata.com/en/articles/ai-prompt-energy-water)
+- [One Small Data Error Can Distort the Whole System](https://dreamlogsdata.com/en/articles/data-quality-small-errors-big-impact)
+- [AI Gets Smarter Every Day. Are We Getting Smarter Too?](https://dreamlogsdata.com/en/articles/ai-next-bizcore-context-workflow-thinking)
+<!-- BLOG-POST-LIST:END -->
 
----
+### GitHub signals
+<p align="center">
+  <img src="profile/stats.svg" alt="GitHub stats" width="49%">
+  <img src="profile/top-langs.svg" alt="Top languages" width="49%">
+</p>
 
 <p align="center">
-  <a href="https://dreamlogsdata.com/">dreamlogsdata.com</a> |
-  <a href="https://www.linkedin.com/in/pakon-poomson/?locale=en-US">LinkedIn</a> |
+  <a href="https://dreamlogsdata.com/">dreamlogsdata.com</a> ·
+  <a href="https://www.linkedin.com/in/pakon-poomson/?locale=en-US">LinkedIn</a> ·
   <a href="mailto:pakon.poomson@gmail.com">Email</a>
 </p>
