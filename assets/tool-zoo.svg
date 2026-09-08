@@ -25,7 +25,7 @@
     <path d="M-4 14c0 15 1 27 14 27 9 0 13-7 13-14-6 5-12 5-16 1-5-5-4-12-4-18Z"/>
     <circle cx="-8" cy="-5" r="2.5" fill="#07111c" stroke="none"/><circle cx="9" cy="-5" r="2.5" fill="#07111c" stroke="none"/>
   </g>
-  <g transform="translate(437 122)">
+  <g transform="translate(437 122)"><animateTransform attributeName="transform" type="translate" values="437 122;437 118;437 122" dur="3.2s" repeatCount="indefinite"/>
     <path d="M-33 1c9 24 56 28 72 1-12 3-17-5-17-13-7 4-16 5-25 3-9-2-20-3-30 0Z" fill="#4fc4f2"/>
     <rect x="-18" y="-29" width="14" height="12" rx="2" fill="#7edfff"/><rect x="0" y="-29" width="14" height="12" rx="2" fill="#7edfff"/><rect x="18" y="-29" width="14" height="12" rx="2" fill="#7edfff"/>
     <rect x="0" y="-45" width="14" height="12" rx="2" fill="#7edfff"/><circle cx="18" cy="0" r="2.6" fill="#07111c"/>
@@ -43,7 +43,7 @@
     <ellipse cx="0" cy="14" rx="26" ry="9" fill="#5d82d0"/><ellipse cx="0" cy="-20" rx="26" ry="9" fill="#a7c6ff"/>
     <circle cx="-8" cy="-4" r="2.4" fill="#07111c"/><circle cx="8" cy="-4" r="2.4" fill="#07111c"/><path d="M-7 6Q0 11 7 6" fill="none" stroke="#07111c" stroke-width="2.5" stroke-linecap="round"/>
   </g>
-  <g transform="translate(1089 119)">
+  <g transform="translate(1089 119)"><animateTransform attributeName="transform" type="translate" values="1089 119;1089 114;1089 119" dur="2.6s" repeatCount="indefinite"/>
     <path d="M0-37C18-26 25-7 18 13L0 31-18 13C-25-7-18-26 0-37Z" fill="#dffcf7" stroke="#53dfcf" stroke-width="3"/>
     <circle cx="0" cy="-8" r="9" fill="#55e6d5"/><path d="M-16 14-28 27-10 24M16 14 28 27 10 24" fill="#79f2b7"/><path d="M-6 30 0 45 6 30" fill="#63e8c8"/>
   </g>
@@ -52,7 +52,7 @@
     <text x="600" y="184">GitHub</text><text x="763" y="184">PySpark</text><text x="926" y="184">SQL</text><text x="1089" y="184">FastAPI</text>
   </g>
   <g fill="#5de5d8">
-    <circle cx="58" sy="36" r="3"><animate attributeName="opacity" values=".2;1;.2" dur="2s" repeatCount="indefinite"/></circle>
+    <circle cx="58" cy="36" r="3"><animate attributeName="opacity" values=".2;1;.2" dur="2s" repeatCount="indefinite"/></circle>
     <circle cx="70" cy="36" r="3"><animate attributeName="opacity" values="1;.2;1" dur="2s" repeatCount="indefinite"/></circle>
   </g>
 </svg>
