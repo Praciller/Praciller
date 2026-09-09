@@ -37,9 +37,9 @@
 
 ### Latest notes
 <!-- BLOG-POST-LIST:START -->
-- [How Much Electricity and Water Does One AI Prompt Use?](https://dreamlogsdata.com/en/articles/ai-prompt-energy-water)
-- [One Small Data Error Can Distort the Whole System](https://dreamlogsdata.com/en/articles/data-quality-small-errors-big-impact)
-- [AI Gets Smarter Every Day. Are We Getting Smarter Too?](https://dreamlogsdata.com/en/articles/ai-next-bizcore-context-workflow-thinking)
+- [AI หนึ่งคำถามใช้ไฟและน้ำแค่ไหน?](https://dreamlogsdata.com/articles/ai-prompt-energy-water/)
+- [ข้อมูลผิดนิดเดียว ทำไมคำตอบสุดท้ายถึงผิดทั้งระบบ?](https://dreamlogsdata.com/articles/data-quality-small-errors-big-impact/)
+- [AI เก่งขึ้นทุกวัน แล้วเราล่ะเก่งขึ้นด้วยไหม? บทเรียนจาก AI NEXT by BIZCORE](https://dreamlogsdata.com/articles/ai-next-bizcore-context-workflow-thinking/)
 <!-- BLOG-POST-LIST:END -->
 
 ### GitHub signals
