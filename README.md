@@ -49,9 +49,7 @@
 ## Latest notes
 
 <!-- BLOG-POST-LIST:START -->
-- [AI หนึ่งคำถามใช้ไฟและน้ำแค่ไหน?](https://dreamlogsdata.com/articles/ai-prompt-energy-water/)
-- [ข้อมูลผิดนิดเดียว ทำไมคำตอบสุดท้ายถึงผิดทั้งระบบ?](https://dreamlogsdata.com/articles/data-quality-small-errors-big-impact/)
-- [AI เก่งขึ้นทุกวัน แล้วเราล่ะเก่งขึ้นด้วยไหม? บทเรียนจาก AI NEXT by BIZCORE](https://dreamlogsdata.com/articles/ai-next-bizcore-context-workflow-thinking/)
+- [AI เก่งขึ้นทุกวัน แล้วเราล่ะเก่งขึ้นด้วยไหม? บทเรียนจาก AI NEXT by BIZCORE](https://dreamlogsdata.com/writing/ai-next-bizcore-context-workflow-thinking/)
 <!-- BLOG-POST-LIST:END -->
 
 <details>
