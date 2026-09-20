@@ -49,6 +49,7 @@
 ## Latest notes
 
 <!-- BLOG-POST-LIST:START -->
+- [RAG คืออะไร? ทำไม AI ถึงตอบจากข้อมูลของเราได้โดยไม่ต้องเทรนใหม่](https://dreamlogsdata.com/writing/rag-intro/)
 - [AI เก่งขึ้นทุกวัน แล้วเราล่ะเก่งขึ้นด้วยไหม? บทเรียนจาก AI NEXT by BIZCORE](https://dreamlogsdata.com/writing/ai-next-bizcore-context-workflow-thinking/)
 <!-- BLOG-POST-LIST:END -->
 
