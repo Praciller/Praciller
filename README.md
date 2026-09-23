@@ -49,9 +49,9 @@
 ## Latest notes
 
 <!-- BLOG-POST-LIST:START -->
+- [Data Quality ไม่ใช่แค่เรื่องข้อมูลผิด: ทำไม AI ที่เก่งก็พังได้เพราะข้อมูลเล็ก ๆ](https://dreamlogsdata.com/writing/data-quality-ai-systems/)
 - [AI เก่งขึ้น แต่ระบบของเราน่าเชื่อถือขึ้นหรือยัง?](https://dreamlogsdata.com/writing/ai-system-reliability/)
 - [RAG คืออะไร? ทำไม AI ถึงตอบจากข้อมูลของเราได้โดยไม่ต้องเทรนใหม่](https://dreamlogsdata.com/writing/rag-intro/)
-- [AI เก่งขึ้นทุกวัน แล้วเราล่ะเก่งขึ้นด้วยไหม? บทเรียนจาก AI NEXT by BIZCORE](https://dreamlogsdata.com/writing/ai-next-bizcore-context-workflow-thinking/)
 <!-- BLOG-POST-LIST:END -->
 
 <details>
