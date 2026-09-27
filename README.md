@@ -49,9 +49,9 @@
 ## Latest notes
 
 <!-- BLOG-POST-LIST:START -->
+- [Human-in-the-Loop ยังจำเป็นไหมในยุค AI Agent?](https://dreamlogsdata.com/writing/human-in-the-loop-ai/)
 - [AI Agent ไม่ได้ฉลาดเพราะมีหลาย Agent: สิ่งที่ทำให้ Agentic System ใช้งานจริงได้](https://dreamlogsdata.com/writing/agentic-system-in-production/)
 - [จาก Prompt สู่ Workflow: ทำไม AI Engineer ควรคิดเป็นระบบมากกว่าคิดเป็นคำสั่ง](https://dreamlogsdata.com/writing/ai-workflow-not-prompt/)
-- [Data Quality ไม่ใช่แค่เรื่องข้อมูลผิด: ทำไม AI ที่เก่งก็พังได้เพราะข้อมูลเล็ก ๆ](https://dreamlogsdata.com/writing/data-quality-ai-systems/)
 <!-- BLOG-POST-LIST:END -->
 
 <details>
