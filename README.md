@@ -49,9 +49,9 @@
 ## Latest notes
 
 <!-- BLOG-POST-LIST:START -->
+- [Observability สำหรับ AI: เราจะรู้ได้อย่างไรว่าระบบ AI กำลังผิด ทั้งที่มันยังตอบได้อยู่](https://dreamlogsdata.com/writing/ai-observability/)
 - [Human-in-the-Loop ยังจำเป็นไหมในยุค AI Agent?](https://dreamlogsdata.com/writing/human-in-the-loop-ai/)
 - [AI Agent ไม่ได้ฉลาดเพราะมีหลาย Agent: สิ่งที่ทำให้ Agentic System ใช้งานจริงได้](https://dreamlogsdata.com/writing/agentic-system-in-production/)
-- [จาก Prompt สู่ Workflow: ทำไม AI Engineer ควรคิดเป็นระบบมากกว่าคิดเป็นคำสั่ง](https://dreamlogsdata.com/writing/ai-workflow-not-prompt/)
 <!-- BLOG-POST-LIST:END -->
 
 <details>
