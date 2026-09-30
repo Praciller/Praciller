@@ -49,9 +49,9 @@
 ## Latest notes
 
 <!-- BLOG-POST-LIST:START -->
+- [จาก Prototype สู่ Production: อะไรทำให้ AI Project ไม่จบแค่ Demo](https://dreamlogsdata.com/writing/prototype-to-production-ai/)
 - [Observability สำหรับ AI: เราจะรู้ได้อย่างไรว่าระบบ AI กำลังผิด ทั้งที่มันยังตอบได้อยู่](https://dreamlogsdata.com/writing/ai-observability/)
 - [Human-in-the-Loop ยังจำเป็นไหมในยุค AI Agent?](https://dreamlogsdata.com/writing/human-in-the-loop-ai/)
-- [AI Agent ไม่ได้ฉลาดเพราะมีหลาย Agent: สิ่งที่ทำให้ Agentic System ใช้งานจริงได้](https://dreamlogsdata.com/writing/agentic-system-in-production/)
 <!-- BLOG-POST-LIST:END -->
 
 <details>
