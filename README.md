@@ -3,9 +3,8 @@
 <p><strong>AI Engineer · Data Engineer</strong></p>
 
 <p>
-  I build practical AI and data systems around evaluation, data quality, observability,
-  and reliable pipelines. This GitHub is my workspace for personal projects,
-  experiments, and engineering notes.
+  I build practical AI and data systems around evaluation, data quality,
+  observability, reliable pipelines, and evidence-backed automation.
 </p>
 
 <p>
@@ -14,36 +13,34 @@
   <a href="mailto:pakon.poomson@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-374151?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
 
-## What I'm building
+## Selected projects
 
-| Project | Focus | Links |
+| Project | Focus | Explore |
 | --- | --- | --- |
-| **OpenDQ Observatory** | Data quality, drift, incidents, lineage, and deterministic RCA with optional AI-assisted explanations. | [Repo](https://github.com/Praciller/opendq-observatory) · [Live](https://opendq-observatory.vercel.app/) |
-| **EvalOps Lab** | Reproducible RAG evaluation, failure analysis, provenance, and regression decisions backed by explicit evidence. | [Repo](https://github.com/Praciller/evalops-lab) · [Evidence console](https://praciller.github.io/evalops-lab/) |
-| **VeriClaim AI** | Evidence-driven claim verification with bounded agents, stored provenance, and a deterministic public demo. | [Repo](https://github.com/Praciller/vericlaim-ai) · [Live](https://vericlaim-web.vercel.app) |
+| **OpenDQ Observatory** | Data quality, drift, incidents, lineage, deterministic RCA, and bounded AI explanations. | [Repo](https://github.com/Praciller/opendq-observatory) · [Live](https://opendq-observatory.vercel.app/) |
+| **EvalOps Lab** | Reproducible RAG evaluation, provenance, failure analysis, and regression decisions. | [Repo](https://github.com/Praciller/evalops-lab) · [Evidence](https://praciller.github.io/evalops-lab/) |
+| **VeriClaim AI** | Evidence-driven claim verification with bounded agents, provenance, and deterministic evaluation. | [Repo](https://github.com/Praciller/vericlaim-ai) · [Live](https://vericlaim-web.vercel.app) |
+| **Urban Mobility Data Platform** | Ingestion, data quality, DuckDB/dbt marts, Dagster orchestration, APIs, and analytics. | [Repo](https://github.com/Praciller/urban-mobility-data-platform) · [Live](https://praciller-urban-mobility-dashboard.onrender.com) |
+| **Thai Public Procurement Intelligence** | Governed public-data ingestion, provenance-aware search, analytics, and cited answers. | [Repo](https://github.com/Praciller/thai-procurement-intelligence) · [Live](https://thai-procurement-intelligence.vercel.app/) |
+| **OpsPulse AI** | Java/Spring Boot operations intelligence with deterministic risk rules and bounded AI assistance. | [Repo](https://github.com/Praciller/opspulse-ai) |
 
-[More personal projects →](https://github.com/Praciller?tab=repositories)
+[More public projects →](https://github.com/Praciller?tab=repositories)
 
-## Things I code with
+## Core stack
 
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img alt="SQL" src="https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-  <img alt="PySpark" src="https://img.shields.io/badge/-PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
-  <img alt="Kafka" src="https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
-  <img alt="Flink" src="https://img.shields.io/badge/-Flink-E6526F?style=flat-square&logo=apacheflink&logoColor=white" />
   <img alt="dbt" src="https://img.shields.io/badge/-dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" />
+  <img alt="Dagster" src="https://img.shields.io/badge/-Dagster-4F43DD?style=flat-square&logo=dagster&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=111827" />
   <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
   <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-  <img alt="Neon" src="https://img.shields.io/badge/-Neon-00E599?style=flat-square&logo=neon&logoColor=111827" />
-  <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+  <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
 </p>
 
 ## Latest notes
