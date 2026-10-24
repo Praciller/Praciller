@@ -46,9 +46,9 @@
 ## Latest notes
 
 <!-- BLOG-POST-LIST:START -->
-- [จาก Prototype สู่ Production: อะไรทำให้ AI Project ไม่จบแค่ Demo](https://dreamlogsdata.com/writing/prototype-to-production-ai/)
-- [Observability สำหรับ AI: เราจะรู้ได้อย่างไรว่าระบบ AI กำลังผิด ทั้งที่มันยังตอบได้อยู่](https://dreamlogsdata.com/writing/ai-observability/)
-- [Human-in-the-Loop ยังจำเป็นไหมในยุค AI Agent?](https://dreamlogsdata.com/writing/human-in-the-loop-ai/)
+- [Demo ผ่านแล้ว ทำไม AI ยังไม่พร้อมใช้จริง?](https://dreamlogsdata.com/writing/prototype-to-production-ai/)
+- [AI ตอบผิด แล้วเราจะรู้ได้อย่างไร?](https://dreamlogsdata.com/writing/ai-observability/)
+- [งานไหนให้ AI ทำเอง งานไหนต้องให้คนตรวจ?](https://dreamlogsdata.com/writing/human-in-the-loop-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 <details>
