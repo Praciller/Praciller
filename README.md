@@ -26,6 +26,8 @@ Selected for **AI Engineer / Applied AI Engineer** roles in Thailand. Demos clea
 | **OpenDQ Observatory** | Operational data quality, drift monitoring, incidents, lineage, deterministic RCA, and bounded AI explanations. | [Repo](https://github.com/Praciller/opendq-observatory) · [Live](https://opendq-observatory.vercel.app/) |
 | **Thai Review Sentiment Intelligence** | Thai NLP model training, reproducible splits, baseline comparison, macro-F1 evaluation, and FastAPI inference. | [Repo](https://github.com/Praciller/thai-review-sentiment-intelligence) · [Demo](https://thai-review-sentiment-intelligence.onrender.com/) |
 
+**New ML / Time-Series (synthetic-only, offline demo):** [Industrial Predictive Maintenance AI](https://github.com/Praciller/industrial-predictive-maintenance-ai) — causal sensor features, asset-and-time holdout, model vs heuristic baseline, and reproducible tests. These synthetic scores do not establish real-world effectiveness.
+
 **Additional data / backend engineering:** [Thai Procurement Intelligence](https://github.com/Praciller/thai-procurement-intelligence) · [Urban Mobility Data Platform](https://github.com/Praciller/urban-mobility-data-platform) · [OpsPulse AI](https://github.com/Praciller/opspulse-ai) · [StockRush Go](https://github.com/Praciller/stockrush-go).
 
 [All public repositories](https://github.com/Praciller?tab=repositories)
