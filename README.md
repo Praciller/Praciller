@@ -13,18 +13,22 @@
   <a href="mailto:pakon.poomson@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-374151?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
 
-## Selected projects
+## Featured AI Engineering projects
 
-| Project | Focus | Explore |
+Selected for **AI Engineer / Applied AI Engineer** roles in Thailand. Demos clearly distinguish deterministic fixtures from optional real-model inference.
+
+| Project | Engineering evidence | Explore |
 | --- | --- | --- |
-| **OpenDQ Observatory** | Data quality, drift, incidents, lineage, deterministic RCA, and bounded AI explanations. | [Repo](https://github.com/Praciller/opendq-observatory) · [Live](https://opendq-observatory.vercel.app/) |
-| **EvalOps Lab** | Reproducible RAG evaluation, provenance, failure analysis, and regression decisions. | [Repo](https://github.com/Praciller/evalops-lab) · [Evidence](https://praciller.github.io/evalops-lab/) |
-| **VeriClaim AI** | Evidence-driven claim verification with bounded agents, provenance, and deterministic evaluation. | [Repo](https://github.com/Praciller/vericlaim-ai) · [Live](https://vericlaim-web.vercel.app) |
-| **Urban Mobility Data Platform** | Ingestion, data quality, DuckDB/dbt marts, Dagster orchestration, APIs, and analytics. | [Repo](https://github.com/Praciller/urban-mobility-data-platform) · [Live](https://praciller-urban-mobility-dashboard.onrender.com) |
-| **Thai Public Procurement Intelligence** | Governed public-data ingestion, provenance-aware search, analytics, and cited answers. | [Repo](https://github.com/Praciller/thai-procurement-intelligence) · [Live](https://thai-procurement-intelligence.vercel.app/) |
-| **OpsPulse AI** | Java/Spring Boot operations intelligence with deterministic risk rules and bounded AI assistance. | [Repo](https://github.com/Praciller/opspulse-ai) |
+| **Receipt AI Expense Tracker** | Thai/English document extraction pipeline, financial reconciliation, human review, privacy-aware local storage; hosted demo uses synthetic/mock inference by default. | [Repo](https://github.com/Praciller/receipt-ai-expense-tracker) · [Demo](https://receipt-ai-expense-tracker-eta.vercel.app/) |
+| **Customer Support RAG Triage Agent** | Bounded retrieval, typed LangGraph workflow, grounding checks, evaluation, and human-action routing; public demo uses synthetic records and deterministic generation. | [Repo](https://github.com/Praciller/customer-support-rag-triage-agent) · [Demo](https://customer-support-rag-triage-agent.onrender.com/) |
+| **EvalOps Lab** | Retrieval evaluation, versioned evidence, regression policies, CI gates, and failure analysis. Public console displays sanitized synthetic evidence, not live model execution. | [Repo](https://github.com/Praciller/evalops-lab) · [Evidence](https://praciller.github.io/evalops-lab/) |
+| **VeriClaim AI** | Evidence-driven claim verification, bounded agent workflow, provenance, and reproducible evaluation. Hosted demo is fixture-only. | [Repo](https://github.com/Praciller/vericlaim-ai) · [Demo](https://vericlaim-web.vercel.app/) |
+| **OpenDQ Observatory** | Operational data quality, drift monitoring, incidents, lineage, deterministic RCA, and bounded AI explanations. | [Repo](https://github.com/Praciller/opendq-observatory) · [Live](https://opendq-observatory.vercel.app/) |
+| **Thai Review Sentiment Intelligence** | Thai NLP model training, reproducible splits, baseline comparison, macro-F1 evaluation, and FastAPI inference. | [Repo](https://github.com/Praciller/thai-review-sentiment-intelligence) · [Demo](https://thai-review-sentiment-intelligence.onrender.com/) |
 
-[More public projects →](https://github.com/Praciller?tab=repositories)
+**Additional data / backend engineering:** [Thai Procurement Intelligence](https://github.com/Praciller/thai-procurement-intelligence) · [Urban Mobility Data Platform](https://github.com/Praciller/urban-mobility-data-platform) · [OpsPulse AI](https://github.com/Praciller/opspulse-ai) · [StockRush Go](https://github.com/Praciller/stockrush-go).
+
+[All public repositories](https://github.com/Praciller?tab=repositories)
 
 ## Core stack
 
