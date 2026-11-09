@@ -17,14 +17,14 @@
 
 Selected for **AI Engineer / Applied AI Engineer** roles in Thailand. Demos clearly distinguish deterministic fixtures from optional real-model inference.
 
-| Project | Engineering evidence | Explore |
-| --- | --- | --- |
-| **Receipt AI Expense Tracker** | Thai/English document extraction pipeline, financial reconciliation, human review, privacy-aware local storage; live public demo uses Groq Qwen vision with Gemini as a configured fallback, with per-IP rate limits and user-confirmed local saving. | [Repo](https://github.com/Praciller/receipt-ai-expense-tracker) · [Demo](https://receipt-ai-expense-tracker-eta.vercel.app/) |
-| **Customer Support RAG Triage Agent** | Bounded retrieval, typed LangGraph workflow, grounding checks, evaluation, and human-action routing; public demo uses synthetic records and deterministic generation. | [Repo](https://github.com/Praciller/customer-support-rag-triage-agent) · [Demo](https://customer-support-rag-triage-agent.onrender.com/) |
-| **EvalOps Lab** | Retrieval evaluation, versioned evidence, regression policies, CI gates, and failure analysis. Public console displays sanitized synthetic evidence, not live model execution. | [Repo](https://github.com/Praciller/evalops-lab) · [Evidence](https://praciller.github.io/evalops-lab/) |
-| **VeriClaim AI** | Evidence-driven claim verification, bounded agent workflow, provenance, and reproducible evaluation. Hosted demo is fixture-only. | [Repo](https://github.com/Praciller/vericlaim-ai) · [Demo](https://vericlaim-web.vercel.app/) |
-| **OpenDQ Observatory** | Operational data quality, drift monitoring, incidents, lineage, deterministic RCA, and bounded AI explanations. | [Repo](https://github.com/Praciller/opendq-observatory) · [Live](https://opendq-observatory.vercel.app/) |
-| **Thai Review Sentiment Intelligence** | Thai NLP model training, reproducible splits, baseline comparison, macro-F1 evaluation, and FastAPI inference. | [Repo](https://github.com/Praciller/thai-review-sentiment-intelligence) · [Demo](https://thai-review-sentiment-intelligence.onrender.com/) |
+**The notes below clarify whether a demo uses live inference, synthetic evidence, or fixtures.**
+
+- **[Receipt AI Expense Tracker](https://github.com/Praciller/receipt-ai-expense-tracker)** · [Demo](https://receipt-ai-expense-tracker-eta.vercel.app/) — Thai/English receipt extraction, reconciliation, and human review. Live Groq Qwen vision, with Gemini configured as fallback; per-IP limits and user-confirmed local saving.
+- **[Customer Support RAG Triage Agent](https://github.com/Praciller/customer-support-rag-triage-agent)** · [Demo](https://customer-support-rag-triage-agent.onrender.com/) — Bounded retrieval and LangGraph workflow with grounding checks, evaluation, and human-action routing. Demo uses synthetic records and deterministic generation.
+- **[EvalOps Lab](https://github.com/Praciller/evalops-lab)** · [Evidence](https://praciller.github.io/evalops-lab/) — Versioned retrieval evidence, regression policies, CI gates, and failure analysis. Public console uses sanitized synthetic evidence, not live model runs.
+- **[VeriClaim AI](https://github.com/Praciller/vericlaim-ai)** · [Demo](https://vericlaim-web.vercel.app/) — Evidence-driven claim verification, provenance, and reproducible evaluation. Hosted demo is fixture-only.
+- **[OpenDQ Observatory](https://github.com/Praciller/opendq-observatory)** · [Live](https://opendq-observatory.vercel.app/) — Operational data quality, drift and incident monitoring, lineage, deterministic RCA, and bounded AI explanations.
+- **[Thai Review Sentiment Intelligence](https://github.com/Praciller/thai-review-sentiment-intelligence)** · [Demo](https://thai-review-sentiment-intelligence.onrender.com/) — Thai NLP training, reproducible splits, baseline comparison, macro-F1 evaluation, and FastAPI inference.
 
 **New ML / Time-Series (synthetic-only, interactive hosted demo):** [Industrial Predictive Maintenance AI](https://github.com/Praciller/industrial-predictive-maintenance-ai) ([Live](https://praciller.github.io/industrial-predictive-maintenance-ai/)) — causal sensor features, asset-and-time holdout, model vs heuristic baseline, and reproducible tests. These synthetic scores do not establish real-world effectiveness.
 
