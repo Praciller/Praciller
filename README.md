@@ -15,9 +15,7 @@
 
 ## Featured AI Engineering projects
 
-Selected for **AI Engineer / Applied AI Engineer** roles in Thailand. Demos clearly distinguish deterministic fixtures from optional real-model inference.
-
-**The notes below clarify whether a demo uses live inference, synthetic evidence, or fixtures.**
+Selected for **AI Engineer / Applied AI Engineer** roles in Thailand. Each project notes its demo mode: live inference, synthetic evidence, or fixtures.
 
 - **[Receipt AI Expense Tracker](https://github.com/Praciller/receipt-ai-expense-tracker)** · [Demo](https://receipt-ai-expense-tracker-eta.vercel.app/) — Thai/English receipt extraction, reconciliation, and human review. Live Groq Qwen vision, with Gemini configured as fallback; per-IP limits and user-confirmed local saving.
 - **[Customer Support RAG Triage Agent](https://github.com/Praciller/customer-support-rag-triage-agent)** · [Demo](https://customer-support-rag-triage-agent.onrender.com/) — Bounded retrieval and LangGraph workflow with grounding checks, evaluation, and human-action routing. Demo uses synthetic records and deterministic generation.
