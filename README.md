@@ -26,7 +26,13 @@ Selected for **AI Engineer / Applied AI Engineer** roles in Thailand. Each proje
 
 **New ML / Time-Series (synthetic-only, interactive hosted demo):** [Industrial Predictive Maintenance AI](https://github.com/Praciller/industrial-predictive-maintenance-ai) ([Live](https://praciller.github.io/industrial-predictive-maintenance-ai/)) — causal sensor features, asset-and-time holdout, model vs heuristic baseline, and reproducible tests. These synthetic scores do not establish real-world effectiveness.
 
-**Additional data / backend engineering:** [Thai Procurement Intelligence](https://github.com/Praciller/thai-procurement-intelligence) · [Urban Mobility Data Platform](https://github.com/Praciller/urban-mobility-data-platform) · [OpsPulse AI](https://github.com/Praciller/opspulse-ai) · [StockRush Go](https://github.com/Praciller/stockrush-go).
+### More data and backend demos
+
+- **[Thai Procurement Intelligence](https://github.com/Praciller/thai-procurement-intelligence)** · [Public demo](https://thai-procurement-intelligence.vercel.app/) — Search and analytics over a bounded official procurement snapshot.
+- **[Urban Mobility Data Platform](https://github.com/Praciller/urban-mobility-data-platform)** · [Dashboard](https://praciller-urban-mobility-dashboard.onrender.com/) — Analytics backed by DuckDB and a small synthetic taxi dataset.
+- **[OpsPulse AI](https://github.com/Praciller/opspulse-ai)** · [Guest demo](https://opspulse-ai-gamma.vercel.app/demo) — Explore synthetic operational risks and reports without signing in.
+- **[StockRush Go](https://github.com/Praciller/stockrush-go)** · [Static evidence](https://praciller.github.io/stockrush-go/) — Explore precomputed concurrency evidence. Run the Go API and PostgreSQL locally to reproduce the reservation workflow.
+- **[Personal AI Engineering Platform](https://github.com/Praciller/personal-ai-engineering-platform)** · [Public demo](https://personal-ai-engineering-platform-seven.vercel.app) — Run two rules-based workers against a synthetic data-quality incident.
 
 [All public repositories](https://github.com/Praciller?tab=repositories)
 
