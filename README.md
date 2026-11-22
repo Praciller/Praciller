@@ -28,7 +28,6 @@ Selected for **AI Engineer / Applied AI Engineer** roles in Thailand. Each proje
 
 ### More data and backend demos
 
-- **[Thai Procurement Intelligence](https://github.com/Praciller/thai-procurement-intelligence)** · [Public demo](https://thai-procurement-intelligence.vercel.app/) — Search and analytics over a bounded official procurement snapshot.
 - **[Urban Mobility Data Platform](https://github.com/Praciller/urban-mobility-data-platform)** · [Dashboard](https://praciller-urban-mobility-dashboard.onrender.com/) — Analytics backed by DuckDB and a small synthetic taxi dataset.
 - **[OpsPulse AI](https://github.com/Praciller/opspulse-ai)** · [Guest demo](https://opspulse-ai-gamma.vercel.app/demo) — Explore synthetic operational risks and reports without signing in.
 - **[StockRush Go](https://github.com/Praciller/stockrush-go)** · [Static evidence](https://praciller.github.io/stockrush-go/) — Explore precomputed concurrency evidence. Run the Go API and PostgreSQL locally to reproduce the reservation workflow.
